@@ -1,6 +1,6 @@
 # SᴜᴘᴇʀBᴏᴛ
 
-A modified and advanced UserBot for Telegram Users. Based on Latest Telethon (1.21.1) and made using Latest Python (3.9.5). **Managed By : [@its_JassManak](https://telegram.me/its_JassManak). DEVs : [@Disheartened_007](https://telegram.me/Disheartened_007), [@ItS_PRaNAv_Xd](https://telegram.me/ItS_PRaNAv_Xd).**
+A modified and advanced UserBot for Telegram Users. Based on Latest Telethon (1.21.1) and made using Latest Python (3.9.5). **Managed By : [@its_JassManak](https://telegram.me/its_JassManak). DEVs : [@Disheartened_007](https://telegram.me/Disheartened_007), [@ItS_PRaNAv_Xd](https://telegram.me/ItS_PRaNAv_Xd).** 
 
 <p align="center">
   <img src="./resources/SuperBot Logo.jpg" alt="SuperBot Logo">

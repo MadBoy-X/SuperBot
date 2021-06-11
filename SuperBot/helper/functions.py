@@ -1,3 +1,6 @@
+# SuperBot
+# made for SuperBot
+
 import requests , os, re, time
 from bs4 import BeautifulSoup
 from asyncio import sleep
@@ -58,3 +61,6 @@ async def darkmusicvideo(dark):
     video_link =  'http://www.youtube.com/'+video_link
     command = ('youtube-dl -f "[filesize<20M]" ' +video_link)  
     os.system(command)
+
+# SuperBot
+# made for SuperBot

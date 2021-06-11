@@ -1,3 +1,6 @@
+# SuperBot
+# made for SuperBot
+
 import time
 import os
 import sys
@@ -188,3 +191,6 @@ SUDO_LIST = {}
 CMD_HELP = {}
 ISAFK = False
 AFKREASON = None
+
+# SuperBot
+# made for SuperBot

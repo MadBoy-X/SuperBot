@@ -2,6 +2,9 @@
 
 A modified and advanced UserBot for Telegram Users. Based on Latest Telethon (1.21.1) and made using Latest Python (3.9.5). **Managed By : [@its_JassManak](https://telegram.me/its_JassManak). DEVs : [@Disheartened_007](https://telegram.me/Disheartened_007), [@ItS_PRaNAv_Xd](https://telegram.me/ItS_PRaNAv_Xd).**
 
+<p align="center">
+  <img src="./resources/SuperBot Logo.jpg" alt="SuperBot Logo">
+
 -------------------------------------------------
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/MadBoy-X/SuperBot?utm_source=github.com&utm_medium=referral&utm_content=MadBoy-X/SuperBot&utm_campaign=Badge_Grade_Settings)

@@ -6,7 +6,7 @@ A modified and advanced UserBot for Telegram Users. Based on Latest Telethon (1.
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/MadBoy-X/SuperBot?utm_source=github.com&utm_medium=referral&utm_content=MadBoy-X/SuperBot&utm_campaign=Badge_Grade_Settings)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/MadBoy-X/SuperBot)
+
 
 -------------------------------------------------
 

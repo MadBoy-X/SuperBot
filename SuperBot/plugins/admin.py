@@ -30,7 +30,7 @@ from SuperBot.utils import admin_cmd
 PP_TOO_SMOL = "`The image is too small`"
 PP_ERROR = "`Failure while processing the image`"
 NO_ADMIN = "`I am not an admin!🤭`"
-NO_PERM = "`Sed..I don't have sufficient permissions! Alexa play Chacha Hai Chacha.`"
+NO_PERM = "`I don't have permission this grp owner is very rude😕`"
 NO_SQL = "`Running on Non-SQL mode!`"
 
 CHAT_PP_CHANGED = "`Chat Picture Changed`"

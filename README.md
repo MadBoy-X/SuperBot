@@ -2,8 +2,8 @@
 
 A modified and advanced UserBot for Telegram Users. Based on Latest Telethon (1.21.1) and made using Latest Python (3.9.5). **Managed By : [@its_JassManak](https://telegram.me/its_JassManak). DEVs : [@Disheartened_007](https://telegram.me/Disheartened_007), [@ItS_PRaNAv_Xd](https://telegram.me/ItS_PRaNAv_Xd).** 
 
-<p align="center">
-  <img src="./resources/SuperBot Logo.jpg" alt="SuperBot Logo">
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://telegra.ph/file/92282e208158c15793431.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="500" data-original-width="500" height="500" src="https://telegra.ph/file/92282e208158c15793431.jpg" width="500" /></a></div>
 
 -------------------------------------------------
 

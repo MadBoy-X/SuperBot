@@ -555,7 +555,7 @@ def start_assistant(shortname):
         mod.tgbot = bot.tgbot
         spec.loader.exec_module(mod)
         sys.modules["SuperBot.plugins.assistant" + shortname] = mod
-        print("SuperBot Assistant Initiated" + shortname)
+        print("SuperBot Assistant Has Been Initiated" + shortname)
         
 # SuperBot
 # made for SuperBot

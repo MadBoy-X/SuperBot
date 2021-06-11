@@ -1,3 +1,6 @@
+# SuperBot
+# made for SuperBot
+
 import asyncio
 import os
 from pathlib import Path
@@ -129,3 +132,5 @@ if len(argv) not in (1, 3, 4):
 else:
     bot.run_until_disconnected()
 
+# SuperBot
+# made for SuperBot

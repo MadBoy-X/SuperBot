@@ -1,3 +1,6 @@
+# SuperBot
+# made for SuperBot
+
 STYLE = [
     "serif",
     "sans",
@@ -54,3 +57,6 @@ FONTS = {
 }
 
 SIMPLEST = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"
+
+# SuperBot
+# made for SuperBot

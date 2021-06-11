@@ -8,7 +8,7 @@ from telethon.sessions import StringSession
 from telethon import TelegramClient
 from SuperBot.helper import functions as superdef
 from var import Var
-from SuperBot.functions import botfunction as topfunc
+from SuperBot.functions import superfunction as topfunc
 
 
 os.system("pip3 install aria2p")

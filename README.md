@@ -82,6 +82,7 @@ UnFortunately, there are no Mandatory vars for the UniBorg Support Config.
 ## • JASS MANAK  »»  <a href="https://github.com/JassManak1125" alt="Jass Manak"> <img src="https://img.shields.io/badge/Jass Manak-98AFC7?logo=github" /></a>
 ## • PRANAV  »»  <a href="https://github.com/Pranav18262" alt="Pranav"> <img src="https://img.shields.io/badge/Pranav-625D5D?logo=github" /></a>
 ## • SHUBHANSH »» <a href="https://github.com/Aruoto" alt="Shubhansh"> <img src="https://img.shields.io/badge/Shubhansh-E5E4E2?logo=github" /></a>
+## • LEGEND X »» <a href="https://github.com/LEGENDXOP" alt="LEGEND X"> <img src="https://img.shields.io/badge/Legend X-8f4b3d?logo=github" /></a>
 ## • DarkCobra »» <a href="https://github.com/DARK-COBRA/DARKCOBRA" alt="DARK COBRA"> <img src="https://img.shields.io/badge/DARK COBRA-b0559d?logo=github" /></a>
 ## • UltraX DEVs (Including Me {[@madboy482](https://github.com/madboy482)} 😂) »» <a href="https://github.com/ULTRA-OP/ULTRA-X" alt="ULTRA X"> <img src="https://img.shields.io/badge/ULTRA X-7ad335?logo=github" /></a>
 

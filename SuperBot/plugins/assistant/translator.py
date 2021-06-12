@@ -1,15 +1,16 @@
-# Copyright (C) Midhun KM
-#
-# Please Don't Kang Without Credits
-# A Plugin For Assistant Bot
-# x0x
+# SuperBot
+# made for SuperBot 
 
-import emoji
-from googletrans import Translator
+# imported from ULTRA-X by madboy482
+
+from SuperBot import assistant
+from google_trans_new import google_translator
+import requests
+from PyDictionary import PyDictionary
 from telethon import events
+from telethon.tl import functions
 
-
-@tgbot.on(events.NewMessage(pattern="^/tr ?(.*)"))
+@assistant.on(events.NewMessage(pattern="/tr ?(.*)"))
 async def _(event):
     input_str = event.pattern_match.group(1)
     if event.reply_to_msg_id:
@@ -19,20 +20,49 @@ async def _(event):
     elif "|" in input_str:
         lan, text = input_str.split("|")
     else:
-        await tgbot.send_message(
-            event.chat_id, "`.tr LanguageCode` as reply to a message"
-        )
+        await event.reply("`/tr <LanguageCode>` as reply to a message or `/tr <LanguageCode> | <text>`")
         return
-    text = emoji.demojize(text.strip())
+    text = text.strip()
     lan = lan.strip()
-    translator = Translator()
-    translated = translator.translate(text, dest=lan)
-    after_tr_text = translated.text
-    output_str = (
-        f"**Translated By DarkCobra Assistant Bot** \n"
-        f"From {translated.src} to {lan} \n{after_tr_text}"
-    )
+    translator = google_translator()  
     try:
-        await tgbot.send_message(event.chat_id, output_str)
-    except Exception:
-        await tgbot.send_message(event.chat_id, "Something Went Wrong 🤔")
+        translated = translator.translate(text,lang_tgt=lan)  
+        after_tr_text = translated
+        detect_result = translator.detect(text)
+        output_str = (
+            "**TRANSLATED** from {} to {}\n\n"
+            "{}"
+        ).format(
+            detect_result[0],
+            lan,
+            after_tr_text
+        )
+        await event.reply(output_str)
+    except Exception as exc:
+        await event.reply(str(exc))
+
+@assistant.on(events.NewMessage(pattern="/define"))
+async def _(event):
+    text = event.text[len("/define "):]
+    word = f"{text}"
+    let = dictionary.meaning(word)
+    set = str(let)
+    jet = set.replace("{", "")
+    net = jet.replace("}", "")
+    got = net.replace("'", "")
+    await event.reply(got)
+
+@assistant.on(events.NewMessage(pattern="/ud"))
+async def _(event):
+    text = event.text[len("/ud "):]
+    results = requests.get(f'http://api.urbandictionary.com/v0/define?term={text}').json()
+    try:
+        reply_text = f'**{text}**\n\n{results["list"][0]["definition"]}\n\n_{results["list"][0]["example"]}_'
+    except:
+        reply_text = "No results found."
+    await event.reply(reply_text)
+    
+# SuperBot
+# made for SuperBot 
+
+# imported from ULTRA-X by madboy482

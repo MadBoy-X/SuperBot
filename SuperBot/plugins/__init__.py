@@ -1,6 +1,6 @@
-from userbot import darkdef
-from ..helper import functions as dcdef
-#USELESS
-darkmusic = darkdef.darkmusic 
-darkmusicvideo = darkdef.darkmusicvideo
+from SuperBot import superdef
+from ..helper import functions as sbdef
+# USELESS
+darkmusic = superdef.darkmusic 
+darkmusicvideo = superdef.darkmusicvideo
 

@@ -13,7 +13,7 @@ from SuperBot.utils import edit_or_reply as eor
 
 DELETE_TIMEOUT = 3
 thumb_image_path = "./Resources/SuperBot.jpg"
-DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "SuperBot"
+DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Sᥙρҽɾẞσ𝜏"
 
 
 @bot.on(admin_cmd(pattern=r"send (?P<shortname>\w+)", outgoing=True))

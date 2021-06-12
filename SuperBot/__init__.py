@@ -10,6 +10,10 @@ from SuperBot.helper import functions as superdef
 from var import Var
 from SuperBot.functions import superfunction as topfunc
 
+API_ID = os.environ.get("APP_ID", None)
+API_HASH = os.environ.get("API_HASH", None)
+token = os.environ.get("TG_BOT_TOKEN_BF_HER", None)
+assistant = TelegramClient("MadBoy", API_ID, API_HASH).start(bot_token=token)
 
 os.system("pip3 install aria2p")
 
@@ -19,6 +23,7 @@ if Var.STRING_SESSION:
 else:
     session_name = "startup"
     bot = TelegramClient(session_name, Var.APP_ID, Var.API_HASH)
+    
 
 Lastupdate = time.time()
 CMD_LIST = {}

@@ -82,15 +82,12 @@ import asyncio
 import os
 from telethon import TelegramClient
 from telethon.sessions import StringSession
-from SuperBot import bot 
-API_ID = os.environ.get("APP_ID", None)
-API_HASH = os.environ.get("API_HASH", None)
-token = os.environ.get("TG_BOT_TOKEN_BF_HER", None)
+from SuperBot import assistant
+from SuperBot import bot
 import SuperBot._core
 import os
 print("SuperBot is Initiated Successfully ©️ TeamSuperBot 2021")
 async def madboi():
-  assistant = TelegramClient("SuperBot", API_ID, API_HASH).start(bot_token=token)
   madboy = await assistant.get_me()
   MADBOY = await bot.get_me()    
   MadBoy = f"""

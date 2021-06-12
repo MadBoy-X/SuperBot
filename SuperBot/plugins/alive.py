@@ -1,7 +1,6 @@
-# Thanks to Sipak bro and Aryan.. 
-# animation Idea by @ItzSipak && @Hell boy_pikachu
-# Made by @hellboi_atul ....and thanks to @Crackexy for the logos...
-# Kang with credits else gay...
+# SuperBot
+# made for SuperBot
+
 import asyncio
 import os
 import requests
@@ -11,26 +10,20 @@ from io import BytesIO
 from datetime import datetime
 import random
 from telethon import events, version
-from userbot.utils import admin_cmd, sudo_cmd
-from userbot import ALIVE_NAME, Lastupdate
-from . import dcdef
+from SuperBot.utils import admin_cmd, sudo_cmd
+from SuperBot import ALIVE_NAME, Lastupdate
+from . import superdef
 from telethon.tl.types import ChannelParticipantsAdmins
-# 🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔
-DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "DARK COBRA"
+DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Sᥙρҽɾẞσ𝜏"
 
-# Thanks to Sipak bro and Aryan.. 
-# animation Idea by @ItzSipak && @Hell boy_pikachu
-# Made by @hellboi_atul ....and thanks to @Crackexy for the logos...
-# Kang with credits else gay...
-# alive.py for DC(DARK COBRA)
 global ghanti
 ghanti = borg.uid
 edit_time = 5
 """ =======================CONSTANTS====================== """
-file1 = "https://telegra.ph/file/6aa39732748ed7c319943.jpg"
-file2 = "https://telegra.ph/file/a6d72504bc09e71484a54.jpg"
-file3 = "https://telegra.ph/file/3cdbede1d5d85aa2d50fc.jpg"
-file4 = "https://telegra.ph/file/3dae01973943e8b28c931.jpg"
+file1 = "https://telegra.ph/file/9dac29dbb00b90b17537e.png"
+file2 = "https://telegra.ph/file/7599a1eadb71eeaa18817.png"
+file3 = "https://telegra.ph/file/c57af3507a644bc1344ba.png"
+file4 = "https://telegra.ph/file/9b2e2d708740364c6eaf4.png"
 """ =======================CONSTANTS====================== """
 
 
@@ -42,16 +35,15 @@ async def hmm(yes):
     global ghanti
     ghanti = borg.uid
     await yes.delete()
-    uptime = await dcdef.get_readable_time((time.time() - Lastupdate))
-    pm_caption = "** 𝙳𝙰𝚁𝙺 𝙲𝙾𝙱𝚁𝙰 𝙸𝚂 𝙾𝙽𝙻𝙸𝙽𝙴**\n\n"
-    pm_caption += "**Yes Master, Am Alive And Systems Are Working Perfectly As It Should Be...**\n\n"
-    pm_caption += "✘ About My System ✘\n\n"
-    pm_caption += f"➾ **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀꜱɪᴏɴ** ☞ {version.__version__}\n"
-    pm_caption += "➾ **ꜱᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ** ☞ [ᴊᴏɪɴ](https://t.me/Dark_cobra_support)\n"
-    pm_caption += "➾ **ʟɪᴄᴇɴꜱᴇ**  ☞ [𝚃𝙴𝙰𝙼 𝙲𝙾𝙱𝚁𝙰](https://github.com/DARK-COBRA)\n"
-    pm_caption += "➾ **ᴄᴏᴘʏʀɪɢʜᴛ ʙʏ** ☞ [𝙳𝙰𝚁𝙺-𝙲𝙾𝙱𝚁𝙰](https://github.com/DARK-COBRA/DARKCOBRA)\n\n"
-    pm_caption += f"➾ **ᴜᴘᴛɪᴍᴇ** ☞ {uptime}\n\n"
-    pm_caption += f"➾ **ᴍʏ ᴍᴀsᴛᴇʀ** ☞ [{DEFAULTUSER}](tg://user?id={ghanti})\n"
+    uptime = await superdef.get_readable_time((time.time() - Lastupdate))
+    pm_caption = "**✧✧ 𝙎𝙪𝙥𝙚𝙧𝘽𝙤𝙩 𝙞𝙨 𝙐𝙥 𝙖𝙣𝙙 𝙍𝙪𝙣𝙣𝙞𝙣𝙜 𝙎𝙪𝙘𝙘𝙚𝙨𝙨𝙛𝙪𝙡𝙡𝙮 ✧✧**\n\n"
+    pm_caption += "**𝑨𝒍𝒍 𝒕𝒉𝒆 𝑺𝒚𝒔𝒕𝒆𝒎𝒔 𝒂𝒏𝒅 𝑫𝒂𝒕𝒂𝑩𝒂𝒔𝒆𝒔 𝒂𝒓𝒆 𝑭𝒖𝒏𝒄𝒕𝒊𝒐𝒏𝒊𝒏𝒈 𝑷𝒓𝒐𝒑𝒆𝒓𝒍𝒚, 𝒂𝒔 𝒕𝒉𝒆𝒚 𝒔𝒉𝒐𝒖𝒍𝒅 𝒅𝒐.**\n\n"
+    pm_caption += "✘ 𝐼𝑛𝑓𝑜 𝐴𝑏𝑜𝑢𝑡 𝑀𝑦 𝑆𝑦𝑠𝑡𝑒𝑚 ✘\n\n"
+    pm_caption += f"➥ **Tᴇʟᴇᴛʜᴏɴ Vᴇʀꜱɪᴏɴ :** {version.__version__}\n"
+    pm_caption += "➥ **Sᴜᴘᴘᴏʀᴛ Cʜᴀɴɴᴇʟ :** [Jᴏɪɴ](https://t.me/SuperBot_Support)\n"
+    pm_caption += "➥ **Cᴏᴘʏʀɪɢʜᴛ Bʏ :** [𝐒𝐮𝐩𝐞𝐫𝐁𝐨𝐭](https://github.com/MadBoy-X/SuperBot)\n\n"
+    pm_caption += f"➥ **Uᴘᴛɪᴍᴇ :** {uptime}\n\n"
+    pm_caption += f"➥ **Mʏ Mᴀsᴛᴇʀ :** [{DEFAULTUSER}](tg://user?id={ghanti})\n"
     on = await borg.send_file(yes.chat_id, file=file1,caption=pm_caption)
 
     await asyncio.sleep(edit_time)
@@ -74,6 +66,6 @@ async def hmm(yes):
     
     await asyncio.sleep(edit_time)
     ok7 = await borg.edit_message(yes.chat_id, ok6, file=file4)
-
     
-
+# SuperBot
+# made for SuperBot

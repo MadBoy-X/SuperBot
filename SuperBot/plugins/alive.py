@@ -12,7 +12,7 @@ import random
 from telethon import events, version
 from SuperBot.utils import admin_cmd, sudo_cmd
 from SuperBot import ALIVE_NAME, Lastupdate
-from . import superdef
+from . import sbdef
 from telethon.tl.types import ChannelParticipantsAdmins
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Sᥙρҽɾẞσ𝜏"
 
@@ -35,7 +35,7 @@ async def hmm(yes):
     global ghanti
     ghanti = borg.uid
     await yes.delete()
-    uptime = await superdef.get_readable_time((time.time() - Lastupdate))
+    uptime = await sbdef.get_readable_time((time.time() - Lastupdate))
     pm_caption = "**✧✧ 𝙎𝙪𝙥𝙚𝙧𝘽𝙤𝙩 𝙞𝙨 𝙐𝙥 𝙖𝙣𝙙 𝙍𝙪𝙣𝙣𝙞𝙣𝙜 𝙎𝙪𝙘𝙘𝙚𝙨𝙨𝙛𝙪𝙡𝙡𝙮 ✧✧**\n\n"
     pm_caption += "**𝑨𝒍𝒍 𝒕𝒉𝒆 𝑺𝒚𝒔𝒕𝒆𝒎𝒔 𝒂𝒏𝒅 𝑫𝒂𝒕𝒂𝑩𝒂𝒔𝒆𝒔 𝒂𝒓𝒆 𝑭𝒖𝒏𝒄𝒕𝒊𝒐𝒏𝒊𝒏𝒈 𝑷𝒓𝒐𝒑𝒆𝒓𝒍𝒚, 𝒂𝒔 𝒕𝒉𝒆𝒚 𝒔𝒉𝒐𝒖𝒍𝒅 𝒅𝒐.**\n\n"
     pm_caption += "✘ 𝐼𝑛𝑓𝑜 𝐴𝑏𝑜𝑢𝑡 𝑀𝑦 𝑆𝑦𝑠𝑡𝑒𝑚 ✘\n\n"

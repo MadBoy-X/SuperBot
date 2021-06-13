@@ -1,7 +1,7 @@
 # SuperBot
 # made for SuperBot 
 
-# imported from ULTRA-X by madboy482
+# imported from SuperBot-X by madboy482
 
 # COPYRIGHT (C) 2021-2022 BY LEGENDX22
 # modify by madboy482 and alain_champion
@@ -118,4 +118,4 @@ async def ok(event):
 # SuperBot
 # made for SuperBot 
 
-# imported from ULTRA-X by madboy482
+# imported from SuperBot-X by madboy482

@@ -2,8 +2,8 @@
 # updated by madboy482
 # updated by madboy482
 from telethon import events, Button, custom
-from ULTRA import bot
-from ULTRAX import xbot
+from SuperBot import bot
+from SuperBotX import xbot
 # updated by madboy482
 # updated by madboy482
 # updated by madboy482
@@ -31,22 +31,22 @@ async def inline_id_handler(event: events.InlineQuery.Event):
 # updated by madboy482
 # updated by madboy482
 async def callback_query_handler(event):
-# inline by TEAMLEGEND, TEAMULTRAX
+# inline by TEAMLEGEND, TEAMSuperBotX
   await event.edit(text=f"**UʟᴛʀᴀX's Rᴇᴘᴏ, Dᴇᴘʟᴏʏ ᴀɴᴅ Gʀᴏᴜᴘ Lɪɴᴋ\n\n© @UltraXOT**",buttons=[
    # updated by madboy482
    # updated by madboy482
    # updated by madboy482
                 [
-                    Button.url(f"⚜️ Rᴇᴘᴏ ⚜️", url="https://github.com/ULTRA-OP/ULTRA-X"),
+                    Button.url(f"⚜️ Rᴇᴘᴏ ⚜️", url="https://github.com/SuperBot-OP/SuperBot-X"),
                  # updated by madboy482
                  # updated by madboy482
                  # updated by madboy482
-                    Button.url(f"🌚 Sᴜᴘᴘᴏʀᴛ Cʜᴀᴛ 🌝", url="https://t.me/ULTRAXCHAT")],
+                    Button.url(f"🌚 Sᴜᴘᴘᴏʀᴛ Cʜᴀᴛ 🌝", url="https://t.me/SuperBotXCHAT")],
    # updated by madboy482
    # updated by madboy482
    # updated by madboy482
-                    [Button.url(f"🔰 Dᴇᴘʟᴏʏ 🔰", url="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FULTRA-OP%2FHEROKU&template=https%3A%2F%2Fgithub.com%2FULTRA-OP%2FHEROKU"),
-                     Button.url(f"💠 Sᴛʀɪɴɢ 💠", url="https://replit.com/@legendx22/ULTRA-X#main.py"),
+                    [Button.url(f"🔰 Dᴇᴘʟᴏʏ 🔰", url="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FSuperBot-OP%2FHEROKU&template=https%3A%2F%2Fgithub.com%2FSuperBot-OP%2FHEROKU"),
+                     Button.url(f"💠 Sᴛʀɪɴɢ 💠", url="https://replit.com/@legendx22/SuperBot-X#main.py"),
                 ]
             ]
                    # updated by madboy482

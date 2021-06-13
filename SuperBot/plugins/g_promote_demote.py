@@ -8,44 +8,44 @@
 # Global Promote and Demote Plugin by Team UltraX for UltraX UserBot
 # credit bahut ho gya, yaar as bahut mehnat se bna hai, kang mat krna....
 
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
 
 # Kang with Credits, else gey
 # I knew u will kang and remove credits, duffer!!
@@ -55,29 +55,29 @@
 # Last Warn - Undo the removed part else be ready for DMCA by LegendX
 # Mobile me back option he uspe click karde madhachod kang kiya to dekh
 
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
 
 # credit bahut ho gya, yaar as bahut mehnat se bna hai, kang mat krna....
 # Pls kang mat krna pyar se bol rha hu, nhi to DMCA hai hi
 
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
 
 
 
@@ -85,7 +85,7 @@
 # Pls kang mat krna pyar se bol rha hu, nhi to DMCA hai hi
 
 # code starting...
-from ULTRA import CMD_HELP
+from SuperBot import CMD_HELP
 
 marculs=9
 from telethon.errors.rpcerrorlist import (UserIdInvalidError,
@@ -102,59 +102,59 @@ from telethon.tl.functions.messages import UpdatePinnedMessageRequest
 from telethon.tl.types import (ChannelParticipantsAdmins,
                                  ChatAdminRights,
                                    ChatBannedRights,
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
                                      MessageEntityMentionName,
                                        MessageMediaPhoto)
 # back click kar madharchod # back click kar madharchod # back click kar madharchod 
-from ULTRA.utils import register, errors_handler
-from ULTRA.utils import admin_cmd
-from ULTRA import bot as borg
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
+from SuperBot.utils import register, errors_handler
+from SuperBot.utils import admin_cmd
+from SuperBot import bot as borg
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
 async def get_full_user(event):  
     args = event.pattern_match.group(1).split(':', 1)
     extra = None
@@ -180,50 +180,50 @@ async def get_full_user(event):
 # credit bahut ho gya, yaar as bahut mehnat se bna hai, kang mat krna....
 # Pls kang mat krna pyar se bol rha hu, nhi to DMCA hai hi
             if isinstance(probable_user_mention_entity,
-                          # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-                          # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-                          # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-                          # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-                          # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-                          # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-                          # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-                          # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-                          # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-                          # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-                          # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-                          # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-                          # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-                          # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-                          # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-                          # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-                          # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-                          # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-                          # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-                          # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
+                          # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+                          # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+                          # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+                          # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+                          # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+                          # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+                          # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+                          # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+                          # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+                          # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+                          # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+                          # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+                          # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+                          # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+                          # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+                          # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+                          # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+                          # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+                          # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+                          # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
                           MessageEntityMentionName):
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
                 user_id = probable_user_mention_entity.user_id
                 user_obj = await event.client.get_entity(user_id)
                 return user_obj
@@ -231,29 +231,29 @@ async def get_full_user(event):
             user_obj = await event.client.get_entity(user)
         except Exception as err:
             return await event.edit("`Eʀʀᴏʀ Pʟᴇᴀsᴇ Rᴇᴘᴏʀᴛ Iɴ` **@UltraXChat**`.`", str(err))   
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
     return user_obj, extra
 # back click kar madharchod # back click kar madharchod # back click kar madharchod 
 # back click kar madharchod # back click kar madharchod # back click kar madharchod 
@@ -267,23 +267,23 @@ async def get_user_from_id(user, event):
     try:
         user_obj = await event.client.get_entity(user)
     except (TypeError, ValueError) as err:
-      # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-      # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-      # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-      # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-      # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-      # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-      # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-      # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-      # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-      # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-      # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-      # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-      # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-      # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-      # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-      # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-      # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
+      # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+      # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+      # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+      # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+      # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+      # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+      # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+      # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+      # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+      # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+      # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+      # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+      # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+      # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+      # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+      # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+      # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
         await event.edit(str(err))
         return None
     return user_obj
@@ -300,30 +300,30 @@ async def gben(SuperBot):
     me = await SuperBot.client.get_me()
     await ultrax.edit("`Pʀᴏᴍᴏᴛɪɴɢ...`")
     my_mention = "[{}](tg://user?id={})".format(me.first_name, me.id)
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
     f"@{me.username}" if me.username else my_mention
     await SuperBot.get_chat()
     if SuperBot.is_private:
@@ -336,54 +336,54 @@ async def gben(SuperBot):
     except:
         pass
     if me == user:
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
        k = await ultrax.edit("`Aʀᴇ ʏᴏᴜ ᴀ ɴᴏᴏʙ ᴡʜᴏ ᴡᴀɴᴛ ᴛᴏ ᴘʀᴏᴍᴏᴛᴇ ʏᴏᴜʀsᴇʟғ ㋛ !!`")
        return
     try:
         if not rank:
             rank = "ㅤㅤ"
-            # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-            # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-            # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-            # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-            # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-            # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-            # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-            # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-            # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-            # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-            # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-            # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-            # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-            # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-            # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-            # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-            # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-            # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-            # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
+            # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+            # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+            # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+            # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+            # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+            # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+            # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+            # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+            # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+            # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+            # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+            # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+            # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+            # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+            # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+            # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+            # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+            # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+            # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
     except:
         return await legend.edit(f"**Sᴏᴍᴇᴛʜɪɴɢ W3ɴᴛ Wʀᴏɴɢ 🧐 !!**")
     if user:
@@ -395,30 +395,30 @@ async def gben(SuperBot):
                                invite_users=True,
                                 change_info=True,
                                  ban_users=True,
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
                                   delete_messages=True,
                                    pin_messages=True)
         for x in telchanel:
@@ -432,28 +432,28 @@ async def gben(SuperBot):
         await ultrax.edit(f"`Rᴇᴘʟʏ ᴛᴏ ᴀ ᴜsᴇʀ ᴛᴏ Gᴘʀᴏᴍᴏᴛᴇ ᴛʜᴇᴍ...`")
     return await ultrax.edit(
         f"**Nᴇᴡ Gᴘʀᴏᴍᴏᴛɪᴏɴ !!**\n\n**Usᴇʀ** :- __[{user.first_name}](tg://user?id={user.id})__\n**Aғғᴇᴄᴛᴇᴅ Cʜᴀᴛs** :- `{i}`"
-      # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-      # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-      # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-      # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-      # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-      # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-      # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-      # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-      # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-      # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-      # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-      # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-      # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-      # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-      # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-      # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-      # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-      # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-      # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-      # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-      # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-      # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
+      # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+      # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+      # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+      # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+      # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+      # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+      # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+      # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+      # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+      # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+      # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+      # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+      # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+      # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+      # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+      # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+      # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+      # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+      # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+      # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+      # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+      # Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
     )
 
 # back click kar madharchod # back click kar madharchod 
@@ -496,30 +496,30 @@ async def gben(SuperBot):
     await SuperBot.get_chat()
     if SuperBot.is_private:
         user = SuperBot.chat
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
         rank = SuperBot.pattern_match.group(1)
     else:
         SuperBot.chat.title
@@ -529,59 +529,59 @@ async def gben(SuperBot):
         pass
     if me == user:
        k = await ultrax.edit("`Aʀᴇ ʏᴏᴜ ᴀ ɴᴏᴏʙ ᴡʜᴏ ᴡᴀɴᴛ ᴛᴏ ᴅᴇᴍᴏᴛᴇ ʏᴏᴜʀsᴇʟғ ㋛ !!`")
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
        return
     try:
         if not rank:
             rank = "ㅤㅤ"
     except:
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
         return await legend.edit(f"**Sᴏᴍᴇᴛʜɪɴɢ W3ɴᴛ Wʀᴏɴɢ 🧐 !!**")
     if user:
         telchanel = [d.entity.id
@@ -603,30 +603,30 @@ async def gben(SuperBot):
              pass
     else:
         await ultrax.edit(f"`Rᴇᴘʟʏ ᴛᴏ ᴀ ᴜsᴇʀ ᴛᴏ Gᴘʀᴏᴍᴏᴛᴇ ᴛʜᴇᴍ...`")
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
     return await ultrax.edit(
         f"`Gʟᴏʙʙᴀʟʏ Dᴇᴍᴏᴛᴇᴅ` **[{user.first_name}](tg://user?id={user.id})** `Iɴ` **{i}** `Cʜᴀᴛs.`"
     )
@@ -654,345 +654,345 @@ async def gben(SuperBot):
 
 # Last Warn - Undo the removed part else be ready for DMCA by LegendX
 
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
 
 # credit bahut ho gya, yaar as bahut mehnat se bna hai, kang mat krna....
 # Pls kang mat krna pyar se bol rha hu, nhi to DMCA hai hi
 
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
 
 # credit bahut ho gya, yaar as bahut mehnat se bna hai, kang mat krna....
 # Pls kang mat krna pyar se bol rha hu, nhi to DMCA hai hi
 
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
 
 # credit bahut ho gya, yaar as bahut mehnat se bna hai, kang mat krna....
 # Pls kang mat krna pyar se bol rha hu, nhi to DMCA hai hi
 
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-# Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
+# Reserved, Copyrighted by SuperBot-X, only for SuperBot-X UserBot, If found in any other repo, be ready for DMCA
 
 # credit bahut ho gya, yaar as bahut mehnat se bna hai, kang mat krna....
 # Pls kang mat krna pyar se bol rha hu, nhi to DMCA hai hi

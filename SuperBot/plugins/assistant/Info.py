@@ -1,7 +1,7 @@
 # SuperBot
 # made for SuperBot 
 
-# imported from ULTRA-X by madboy482
+# imported from SuperBot-X by madboy482
 
 from telethon.utils import pack_bot_file_id
 from SuperBot import assistant
@@ -121,4 +121,4 @@ async def detail(replied_user, event):
 # SuperBot
 # made for SuperBot 
 
-# imported from ULTRA-X by madboy482
+# imported from SuperBot-X by madboy482

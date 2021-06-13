@@ -36,3 +36,5 @@ jobs:
           repository: https://github.com/MadBoy-X/SuperBot/
 
           commit_user_name: madboy482
+
+          commit_user_email: madboyop2222@gmail.com

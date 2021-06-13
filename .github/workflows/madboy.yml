@@ -29,12 +29,12 @@ jobs:
 
         with:
 
-          commit_message: 'Replaced new name'
+          revert_message: 'Replaced new name'
 
-          commit_options: '--no-verify'
+          revert_options: '--no-verify'
 
           repository: .
 
-          commit_user_name: madboy482
+          revert_user_name: madboy482
 
-          commit_user_email: madboyop2222@gmail.com
+          revert_user_email: madboyop2222@gmail.com

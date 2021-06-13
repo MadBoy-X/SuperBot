@@ -1,3 +1,6 @@
+# SuperBot
+# made for SuperBot 
+
 #    Copyright (C) Midhun KM 2020
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU Affero General Public License as published by
@@ -18,14 +21,15 @@ import re
 from telethon import Button, custom, events
 from telethon.tl.functions.users import GetFullUserRequest
 
-from userbot import bot
-from userbot.plugins.sql_helper.blacklist_assistant import (
+from SuperBot import bot
+from SuperBot import assistant
+from SuperBot.plugins.sql_helper.blacklist_assistant import (
     add_nibba_in_db,
     is_he_added,
     removenibba,
 )
-from userbot.plugins.sql_helper.botusers_sql import add_me_in_db, his_userid
-from userbot.plugins.sql_helper.idadder_sql import (
+from SuperBot.plugins.sql_helper.botusers_sql import add_me_in_db, his_userid
+from SuperBot.plugins.sql_helper.idadder_sql import (
     add_usersid_in_db,
     already_added,
     get_all_users,
@@ -224,3 +228,6 @@ async def starkisnoob(event):
         await tgbot.send_message(
             user_id, "Congo! You Have Been Unblacklisted By My Master."
         )
+
+# SuperBot
+# made for SuperBot 

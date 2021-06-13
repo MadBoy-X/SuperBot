@@ -1,3 +1,7 @@
+# SuperBot
+# made for SuperBot
+
+from SuperBot import assistant
 from telethon import events
 from telethon.errors import BadRequestError
 from telethon.tl.functions.channels import EditAdminRequest, EditBannedRequest
@@ -54,11 +58,11 @@ MUTE_RIGHTS = ChatBannedRights(until_date=None, send_messages=True)
 UNMUTE_RIGHTS = ChatBannedRights(until_date=None, send_messages=False)
 
 
-@tgbot.on(events.NewMessage(pattern="^/bun(?: |$)(.*)"))
+@assistant.on(events.NewMessage(pattern="^/ban(?: |$)(.*)"))
 async def ban(event):
     noob = event.sender_id
     userids = []
-    async for user in tgbot.iter_participants(
+    async for user in assistant.iter_participants(
         event.chat_id, filter=ChannelParticipantsAdmins
     ):
         userids.append(user.id)
@@ -98,11 +102,11 @@ async def ban(event):
         await event.reply(f"Banned  `{str(user.id)}` !")
 
 
-@tgbot.on(events.NewMessage(pattern="^/unbun(?: |$)(.*)"))
+@assistant.on(events.NewMessage(pattern="^/unban(?: |$)(.*)"))
 async def nothanos(event):
     userids = []
     noob = event.sender_id
-    async for user in tgbot.iter_participants(
+    async for user in assistant.iter_participants(
         event.chat_id, filter=ChannelParticipantsAdmins
     ):
         userids.append(user.id)
@@ -129,11 +133,11 @@ async def nothanos(event):
         return
 
 
-@tgbot.on(events.NewMessage(pattern="^/prumote(?: |$)(.*)"))
+@assistant.on(events.NewMessage(pattern="^/promote(?: |$)(.*)"))
 async def promote(event):
     userids = []
     noob = event.sender_id
-    async for user in tgbot.iter_participants(
+    async for user in assistant.iter_participants(
         event.chat_id, filter=ChannelParticipantsAdmins
     ):
         userids.append(user.id)
@@ -178,11 +182,11 @@ async def promote(event):
         return
 
 
-@tgbot.on(events.NewMessage(pattern="^/demute(?: |$)(.*)"))
+@assistant.on(events.NewMessage(pattern="^/demote(?: |$)(.*)"))
 async def demote(event):
     userids = []
     noob = event.sender_id
-    async for user in tgbot.iter_participants(
+    async for user in assistant.iter_participants(
         event.chat_id, filter=ChannelParticipantsAdmins
     ):
         userids.append(user.id)
@@ -227,11 +231,11 @@ async def demote(event):
     await event.reply("`Demoted this Guy Successfully!`")
 
 
-@tgbot.on(events.NewMessage(pattern="^/pin(?: |$)(.*)"))
+@assistant.on(events.NewMessage(pattern="^/pin(?: |$)(.*)"))
 async def pin(event):
     userids = []
     noob = event.sender_id
-    async for user in tgbot.iter_participants(
+    async for user in assistant.iter_participants(
         event.chat_id, filter=ChannelParticipantsAdmins
     ):
         userids.append(user.id)
@@ -315,3 +319,6 @@ async def get_user_from_id(user, event):
         return None
 
     return user_obj
+
+# SuperBot
+# made for SuperBot

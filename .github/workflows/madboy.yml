@@ -33,7 +33,7 @@ jobs:
 
           commit_options: '--no-verify'
 
-          repository: https://github.com/MadBoy-X/SuperBot/
+          repository: .
 
           commit_user_name: madboy482
 

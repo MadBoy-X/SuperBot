@@ -19,7 +19,7 @@ jobs:
 
         with:
 
-          find: "userbot"
+          find: "ULTRA"
 
           replace: "SuperBot"
 

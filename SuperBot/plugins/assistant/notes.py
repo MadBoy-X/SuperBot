@@ -1,3 +1,6 @@
+# SuperBot
+# made for SuperBot 
+
 from telethon import events, utils
 from telethon.tl import types
 
@@ -109,3 +112,6 @@ async def on_snip_delete(event):
     name = event.pattern_match.group(1)
     remove_snip(name)
     await event.reply("Note #{} deleted successfully".format(name))
+    
+# SuperBot
+# made for SuperBot 

@@ -7,10 +7,10 @@ from bs4 import BeautifulSoup
 from telegraph import Telegraph
 from telethon.errors.rpcerrorlist import YouBlockedUserError
 
-from userbot import Var
+from SuperBot import Var
 
-from userbot import CMD_HELP ,ALIVE_NAME
-from userbot.utils import admin_cmd, edit_or_reply , sudo_cmd
+from SuperBot import CMD_HELP ,ALIVE_NAME
+from SuperBot.utils import admin_cmd, edit_or_reply , sudo_cmd
 
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "cat"
 

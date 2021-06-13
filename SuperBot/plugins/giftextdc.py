@@ -1,5 +1,5 @@
-from userbot import bot 
-from userbot import bot as borg
+from SuperBot import bot 
+from SuperBot import bot as borg
 global hawkmoth
 #Donot Kang MADE BY @THE_BL_ACK_HAT MODIFIED BY Sh1vam #Team DC#Donot Kang MADE BY @THE_BL_ACK_HAT MODIFIED BY Sh1vam #Team DC#Donot Kang MADE BY @THE_BL_ACK_HAT MODIFIED BY Sh1vam #Team DC#Donot Kang MADE BY @THE_BL_ACK_HAT MODIFIED BY Sh1vam #Team DC#Donot Kang MADE BY @THE_BL_ACK_HAT MODIFIED BY Sh1vam #Team DC#Donot Kang MADE BY @THE_BL_ACK_HAT MODIFIED BY Sh1vam #Team DC#Donot Kang MADE BY @THE_BL_ACK_HAT MODIFIED BY Sh1vam #Team DC#Donot Kang MADE BY @THE_BL_ACK_HAT MODIFIED BY Sh1vam #Team DC#Donot Kang MADE BY @THE_BL_ACK_HAT MODIFIED BY Sh1vam #Team DC#Donot Kang MADE BY @THE_BL_ACK_HAT MODIFIED BY Sh1vam #Team DC#Donot Kang MADE BY @THE_BL_ACK_HAT MODIFIED BY Sh1vam #Team DC#Donot Kang MADE BY @THE_BL_ACK_HAT MODIFIED BY Sh1vam #Team DC#Donot Kang MADE BY @THE_BL_ACK_HAT MODIFIED BY Sh1vam #Team DC#Donot Kang MADE BY @THE_BL_ACK_HAT MODIFIED BY Sh1vam #Team DC#Donot Kang MADE BY @THE_BL_ACK_HAT MODIFIED BY Sh1vam #Team DC#Donot Kang MADE BY @THE_BL_ACK_HAT MODIFIED BY Sh1vam #Team DC#Donot Kang MADE BY @THE_BL_ACK_HAT MODIFIED BY Sh1vam #Team DC#Donot Kang MADE BY @THE_BL_ACK_HAT MODIFIED BY Sh1vam #Team DC#Donot Kang MADE BY @THE_BL_ACK_HAT MODIFIED BY Sh1vam #Team DC#Donot Kang MADE BY @THE_BL_ACK_HAT MODIFIED BY Sh1vam #Team DC#Donot Kang MADE BY @THE_BL_ACK_HAT MODIFIED BY Sh1vam #Team DC#Donot Kang MADE BY @THE_BL_ACK_HAT MODIFIED BY Sh1vam #Team DC#Donot Kang MADE BY @THE_BL_ACK_HAT MODIFIED BY Sh1vam #Team DC 
 #@Kraken_The_BadASS Owner OF HELL BOT IS BIGGEST KANGER AND WILL TRY TO KANG THIN HEY U YES YES U @Kraken_The_BadASS JUMP IN A WELL AND DIE DONT TRY TO KANG THIS LIKE UNINSTLL MODULE AND TELLING THAT ALL VARIABLES CAME IN DREAM WHICH ARE SAME AS SH1VAM's UNINSTALL MODULE#Donot Kang MADE BY @THE_BL_ACK_HAT MODIFIED BY Sh1vam #Team DC 
@@ -17,10 +17,10 @@ global hawkmoth
 hawkmoth="I0Rvbm90IEthbmcgTUFERSBCWSBAVEhFX0JMX0FDS19IQVQgTU9ESUZJRUQgQlkgU2gxdmFtICNUZWFtIERDIA=="
 #@Kraken_The_BadASS Owner OF HELL BOT IS BIGGEST KANGER AND WILL TRY TO KANG THIN HEY U YES YES U @Kraken_The_BadASS JUMP IN A WELL AND DIE DONT TRY TO KANG THIS LIKE UNINSTLL MODULE AND TELLING THAT ALL VARIABLES CAME IN DREAM WHICH ARE SAME AS SH1VAM's UNINSTALL MODULE#Donot Kang MADE BY @THE_BL_ACK_HAT MODIFIED BY Sh1vam #Team DC 
 #@Kraken_The_BadASS Owner OF HELL BOT IS BIGGEST KANGER AND WILL TRY TO KANG THIN HEY U YES YES U @Kraken_The_BadASS JUMP IN A WELL AND DIE DONT TRY TO KANG THIS LIKE UNINSTLL MODULE AND TELLING THAT ALL VARIABLES CAME IN DREAM WHICH ARE SAME AS SH1VAM's UNINSTALL MODULE
-from userbot.utils import admin_cmd
+from SuperBot.utils import admin_cmd
 from PIL import Image, ImageDraw, ImageFont
 import os
-from userbot import CMD_HELP
+from SuperBot import CMD_HELP
 
 @borg.on(admin_cmd(pattern="giftext ?(.*)"))
 async def lol(event):
@@ -44,7 +44,7 @@ async def lol(event):
 
     def adi(text):
         img = Image.open(me)
-        #fnt = f'userbot/helpers/styles/{font}'
+        #fnt = f'SuperBot/helpers/styles/{font}'
         fonts = ImageFont.truetype(r"Fonts/{}".format(font),size)
         draw = ImageDraw.Draw(img)
         draw.text(((int(x), int(y))), text,fill=(color),font=fonts )

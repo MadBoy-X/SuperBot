@@ -9,7 +9,7 @@ import asyncio
 import os
 import sys
 import random
-from userbot.utils import admin_cmd
+from SuperBot.utils import admin_cmd
 
 @borg.on(admin_cmd(pattern=r"tip$", outgoing=True))
 async def _(event):

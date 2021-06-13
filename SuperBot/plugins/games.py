@@ -5,8 +5,8 @@
 
 import re
 import random
-from userbot import bot
-from userbot.utils import admin_cmd
+from SuperBot import bot
+from SuperBot.utils import admin_cmd
 
 IF_EMOJI = re.compile(
     "["

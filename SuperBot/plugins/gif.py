@@ -3,8 +3,8 @@
 from PIL import Image
 import sys
 import os
-from userbot.utils import admin_cmd
-from userbot import bot 
+from SuperBot.utils import admin_cmd
+from SuperBot import bot 
 import moviepy.editor as m
 
 if not os.path.isdir("./dcpath/"):

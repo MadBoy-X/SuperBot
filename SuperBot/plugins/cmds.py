@@ -2,8 +2,8 @@
 import asyncio
 import io
 import requests
-from userbot.utils import admin_cmd
-from userbot import CMD_HELP
+from SuperBot.utils import admin_cmd
+from SuperBot import CMD_HELP
 
 
 # @command(pattern="^.cmds", outgoing=True)
@@ -14,7 +14,7 @@ async def install(event):
     reply_to_id = event.message.id
     if event.reply_to_msg_id:
         reply_to_id = event.reply_to_msg_id
-    cmd = "ls userbot/plugins"
+    cmd = "ls SuperBot/plugins"
     process = await asyncio.create_subprocess_shell(
         cmd, stdout=asyncio.subprocess.PIPE, stderr=asyncio.subprocess.PIPE
     )
@@ -32,7 +32,7 @@ async def install(event):
     )
     url2 = f"https://nekobin.com/{key}"
     raw2 = f"https://nekobin.com/raw/{key}"
-    hehe = f"**ls userbot/plugins**.\nPasted to [Nekobin]({url2}) Raw: [View Raw]({raw2}) "
+    hehe = f"**ls SuperBot/plugins**.\nPasted to [Nekobin]({url2}) Raw: [View Raw]({raw2}) "
     if len(OUTPUT) > 69:
         with io.BytesIO(str.encode(OUTPUT)) as out_file:
             out_file.name = "cmd_list.text"
@@ -49,5 +49,5 @@ async def install(event):
 
 
 CMD_HELP.update(
-    {"command_list": ".cmds\nUsage - Extracts all the plugins of this userbot in a link.."}
+    {"command_list": ".cmds\nUsage - Extracts all the plugins of this SuperBot in a link.."}
 )

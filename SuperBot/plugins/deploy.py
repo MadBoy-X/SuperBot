@@ -4,8 +4,8 @@ from telethon import events
 import asyncio
 
 from uniborg.util import admin_cmd
-from userbot import CMD_HELP
-from userbot import AUTONAME
+from SuperBot import CMD_HELP
+from SuperBot import AUTONAME
 
 
 DEFAULTUSER = str(AUTONAME) if AUTONAME else "DARK-COBRA"

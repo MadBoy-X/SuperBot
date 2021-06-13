@@ -14,8 +14,8 @@ import subprocess
 from datetime import datetime
 
 from gtts import gTTS
-from userbot import CMD_HELP
-from userbot.utils import admin_cmd
+from SuperBot import CMD_HELP
+from SuperBot.utils import admin_cmd
 
 
 

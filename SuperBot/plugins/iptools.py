@@ -8,10 +8,10 @@ import urllib.request
 import requests 
 from bs4 import BeautifulSoup
 
-from userbot.utils import admin_cmd 
-from userbot.utils import edit_or_reply
-from userbot import CMD_HELP
-from userbot import bot 
+from SuperBot.utils import admin_cmd 
+from SuperBot.utils import edit_or_reply
+from SuperBot import CMD_HELP
+from SuperBot import bot 
 
 
 @bot.on(admin_cmd(pattern="nmap (.*)"))

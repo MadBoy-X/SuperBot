@@ -293,11 +293,11 @@ async def get_user_from_id(user, event):
 # back click kar madharchod # back click kar madharchod # back click kar madharchod 
 
 @borg.on(admin_cmd(pattern="gpromote ?(.*)"))
-async def gben(userbot):
-    ultrax = legend = userbot
+async def gben(SuperBot):
+    ultrax = legend = SuperBot
     i = 0
     sender = await legend.get_sender()
-    me = await userbot.client.get_me()
+    me = await SuperBot.client.get_me()
     await ultrax.edit("`Pʀᴏᴍᴏᴛɪɴɢ...`")
     my_mention = "[{}](tg://user?id={})".format(me.first_name, me.id)
 # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
@@ -325,14 +325,14 @@ async def gben(userbot):
 # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
 # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
     f"@{me.username}" if me.username else my_mention
-    await userbot.get_chat()
-    if userbot.is_private:
-        user = userbot.chat
-        rank = userbot.pattern_match.group(1)
+    await SuperBot.get_chat()
+    if SuperBot.is_private:
+        user = SuperBot.chat
+        rank = SuperBot.pattern_match.group(1)
     else:
-        userbot.chat.title
+        SuperBot.chat.title
     try:
-        user, rank = await get_full_user(userbot)
+        user, rank = await get_full_user(SuperBot)
     except:
         pass
     if me == user:
@@ -388,7 +388,7 @@ async def gben(userbot):
         return await legend.edit(f"**Sᴏᴍᴇᴛʜɪɴɢ W3ɴᴛ Wʀᴏɴɢ 🧐 !!**")
     if user:
         telchanel = [d.entity.id
-                     for d in await userbot.client.get_dialogs()
+                     for d in await SuperBot.client.get_dialogs()
                      if (d.is_group or d.is_channel)
                      ]
         rgt = ChatAdminRights(add_admins=True,
@@ -423,7 +423,7 @@ async def gben(userbot):
                                    pin_messages=True)
         for x in telchanel:
           try:
-             await userbot.client(EditAdminRequest(x, user, rgt, rank))
+             await SuperBot.client(EditAdminRequest(x, user, rgt, rank))
              i += 1
              await legend.edit(f"**Nᴇᴡ Gᴘʀᴏᴍᴏᴛɪᴏɴ !!**\n\n**Usᴇʀ** :- __[{user.first_name}](tg://user?id={user.id})__\n**Aғғᴇᴄᴛᴇᴅ Cʜᴀᴛs** :- `{i}`")
           except:
@@ -483,19 +483,19 @@ async def gben(userbot):
 # Last Warn - Undo the removed part else be ready for DMCA by LegendX
 
 @borg.on(admin_cmd(pattern="gdemote ?(.*)"))
-async def gben(userbot):
-    ultrax = legend = userbot
+async def gben(SuperBot):
+    ultrax = legend = SuperBot
     i = 0
     sender = await ultrax.get_sender()
-    me = await userbot.client.get_me()
+    me = await SuperBot.client.get_me()
     await legend.edit("`Dᴇᴍᴏᴛɪɴɢ...`")
 # credit bahut ho gya, yaar as bahut mehnat se bna hai, kang mat krna....
 # Pls kang mat krna pyar se bol rha hu, nhi to DMCA hai hi
     my_mention = "[{}](tg://user?id={})".format(me.first_name, me.id)
     f"@{me.username}" if me.username else my_mention
-    await userbot.get_chat()
-    if userbot.is_private:
-        user = userbot.chat
+    await SuperBot.get_chat()
+    if SuperBot.is_private:
+        user = SuperBot.chat
 # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
 # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
 # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
@@ -520,11 +520,11 @@ async def gben(userbot):
 # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
 # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
 # Reserved, Copyrighted by ULTRA-X, only for ULTRA-X UserBot, If found in any other repo, be ready for DMCA
-        rank = userbot.pattern_match.group(1)
+        rank = SuperBot.pattern_match.group(1)
     else:
-        userbot.chat.title
+        SuperBot.chat.title
     try:
-        user, rank = await get_full_user(userbot)
+        user, rank = await get_full_user(SuperBot)
     except:
         pass
     if me == user:
@@ -585,7 +585,7 @@ async def gben(userbot):
         return await legend.edit(f"**Sᴏᴍᴇᴛʜɪɴɢ W3ɴᴛ Wʀᴏɴɢ 🧐 !!**")
     if user:
         telchanel = [d.entity.id
-                     for d in await userbot.client.get_dialogs()
+                     for d in await SuperBot.client.get_dialogs()
                      if (d.is_group or d.is_channel)
                      ]
         rgt = ChatAdminRights(add_admins=None,
@@ -596,7 +596,7 @@ async def gben(userbot):
                                    pin_messages=None)
         for x in telchanel:
           try:
-             await userbot.client(EditAdminRequest(x, user, rgt, rank))
+             await SuperBot.client(EditAdminRequest(x, user, rgt, rank))
              i += 1
              await legend.edit(f"`Gʟᴏʙʙᴀʟʏ Dᴇᴍᴏᴛᴇᴅ` **[{user.first_name}](tg://user?id={user.id})** `Iɴ` **{i}** `Cʜᴀᴛs.`")
           except:

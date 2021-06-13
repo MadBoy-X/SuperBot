@@ -13,8 +13,8 @@ from time import sleep
 import asyncio
 import os
 import random
-from userbot.utils import admin_cmd
-from userbot import CMD_HELP
+from SuperBot.utils import admin_cmd
+from SuperBot import CMD_HELP
 
 #@borg.on(events.NewMessage(pattern=r"\.karb ", outgoing=True))
 @borg.on(admin_cmd(pattern="karb"))

@@ -4,8 +4,8 @@ import datetime
 from telethon import events
 from telethon.errors.rpcerrorlist import YouBlockedUserError
 from telethon.tl.functions.account import UpdateNotifySettingsRequest
-from userbot import bot, CMD_HELP
-from userbot.utils import admin_cmd
+from SuperBot import bot, CMD_HELP
+from SuperBot.utils import admin_cmd
 
 @borg.on(admin_cmd(pattern=r"qbot"))
 async def _(event):

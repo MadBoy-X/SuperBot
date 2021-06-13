@@ -6,8 +6,8 @@ from subprocess import PIPE
 from subprocess import run as runapp
 import pybase64
 from sys import executable
-from userbot import CMD_HELP, ALIVE_NAME, BOTLOG, BOTLOG_CHATID, bot
-from userbot.utils import admin_cmd 
+from SuperBot import CMD_HELP, ALIVE_NAME, BOTLOG, BOTLOG_CHATID, bot
+from SuperBot.utils import admin_cmd 
 DARKCOBRA = str(ALIVE_NAME) if ALIVE_NAME else "DC"
 
 import inspect
@@ -25,7 +25,7 @@ async def dc(event):
     if not cmd:
         await event.edit("``` Give a command or use .help terminal.```")
         return
-    if cmd in ("userbot.session", "env", "printenv"):
+    if cmd in ("SuperBot.session", "env", "printenv"):
         return await event.edit(f"`{DARKCOBRA}:` **Privacy Error, This command not permitted**")
     process = await asyncio.create_subprocess_shell(
         cmd, stdout=asyncio.subprocess.PIPE, stderr=asyncio.subprocess.PIPE)

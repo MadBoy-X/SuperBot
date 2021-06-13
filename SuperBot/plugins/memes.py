@@ -11,7 +11,7 @@ import asyncio
 import random
 import re
 import time
-from userbot import ALIVE_NAME
+from SuperBot import ALIVE_NAME
 
 from collections import deque
 
@@ -22,8 +22,8 @@ from telethon.tl.types import MessageEntityMentionName
 
 from cowpy import cow
 
-from userbot import CMD_HELP,YOUTUBE_API_KEY
-from userbot.utils import register,admin_cmd
+from SuperBot import CMD_HELP,YOUTUBE_API_KEY
+from SuperBot.utils import register,admin_cmd
 
 # ================= CONSTANT =================
 RENDISTR = [
@@ -658,7 +658,7 @@ HIT = [
 #@register(outgoing=True, pattern=r"^.(\w+)say (.*)")
 @borg.on(admin_cmd(pattern=r"(\w+)say (.*)"))
 async def univsaye(cowmsg):
-    """ For .cowsay module, userbot wrapper for cow which says things. """
+    """ For .cowsay module, SuperBot wrapper for cow which says things. """
     if not cowmsg.text[0].isalpha() and cowmsg.text[0] not in ("/", "#", "@", "!"):
         arg = cowmsg.pattern_match.group(1).lower()
         text = cowmsg.pattern_match.group(2)
@@ -850,7 +850,7 @@ async def vapor(vpr):
 @register(outgoing=True, pattern="^.repo$")
 async def source(e):
     if not e.text[0].isalpha() and e.text[0] not in ("/", "#", "@", "!"):
-        await e.edit("Click [here](https://github.com/DARK-COBRA/DARKCOBRA) to open this cool userbot repo 𝔻𝔸ℝ𝕂 ℂ𝕆𝔹ℝ𝔸.")
+        await e.edit("Click [here](https://github.com/DARK-COBRA/DARKCOBRA) to open this cool SuperBot repo 𝔻𝔸ℝ𝕂 ℂ𝕆𝔹ℝ𝔸.")
 			  
 			  
 @register(outgoing=True, pattern="^.str(?: |$)(.*)")
@@ -1029,7 +1029,7 @@ async def faces(owo):
 
 @register(outgoing=True, pattern="^.react$")
 async def react_meme(react):
-    """ Make your userbot react to everything. """
+    """ Make your SuperBot react to everything. """
     if not react.text[0].isalpha() and react.text[0] not in ("/", "#", "@", "!"):
         await react.edit(random.choice(FACEREACTS))
 
@@ -1204,7 +1204,7 @@ CMD_HELP.update({
 \n\n.owo\
 \nUsage: UwU\
 \n\n.react\
-\nUsage: Make your userbot react to everything.\
+\nUsage: Make your SuperBot react to everything.\
 \n\n.slap\
 \nUsage: reply to slap them with random objects !!\
 \n\n.cry\

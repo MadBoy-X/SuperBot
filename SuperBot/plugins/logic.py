@@ -7,7 +7,7 @@ import asyncio
 import random
 import re
 
-from userbot.utils import admin_cmd
+from SuperBot.utils import admin_cmd
 
 
 @borg.on(admin_cmd(pattern=f"logic$", outgoing=True))

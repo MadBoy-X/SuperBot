@@ -1,10 +1,10 @@
 
 from telethon import events
-from userbot.utils import admin_cmd
+from SuperBot.utils import admin_cmd
 #
 from asyncio import sleep
 from os import remove
-from userbot import CMD_HELP
+from SuperBot import CMD_HELP
 from telethon.errors import (BadRequestError, ChatAdminRequiredError,
                              ImageProcessFailedError, PhotoCropSizeSmallError,
                              UserAdminInvalidError)

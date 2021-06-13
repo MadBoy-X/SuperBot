@@ -1,11 +1,11 @@
-"""night Plugin for Sensible_userbot
+"""night Plugin for Sensible_SuperBot
 Syntax: .night REASON"""
 import asyncio
 import datetime
 from telethon import events
 from telethon.tl import functions, types
-from userbot.utils import admin_cmd
-from userbot import ALIVE_NAME
+from SuperBot.utils import admin_cmd
+from SuperBot import ALIVE_NAME
 
 global USER_night  # pylint:disable=E0602
 global night_time  # pylint:disable=E0602
@@ -32,7 +32,7 @@ async def set_not_night(event):
                 event.chat_id,
                 "Please set `PLUGIN_CHANNEL` " + \
                 "for the proper functioning of night functionality " + \
-                "in @Sensible_userbot \n\n `{}`".format(str(e)),
+                "in @Sensible_SuperBot \n\n `{}`".format(str(e)),
                 reply_to=event.message.id,
                 silent=True
             )
@@ -89,7 +89,7 @@ async def on_night(event):
     night_since = "**a while ago**"
     current_message_text = event.message.message.lower()
     if "night" in current_message_text:
-        # userbot's should not reply to other userbot's
+        # SuperBot's should not reply to other SuperBot's
         # https://core.telegram.org/bots/faq#why-doesn-39t-my-bot-see-messages-from-other-bots
         return False
     if USER_night and not (await event.get_sender()).bot:  # pylint:disable=E0602

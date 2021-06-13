@@ -3,11 +3,11 @@ from telethon import events
 
 import asyncio
 
-from userbot.utils import admin_cmd
-from userbot import bot as newyear
+from SuperBot.utils import admin_cmd
+from SuperBot import bot as newyear
 from telethon import events
 
-from userbot import CMD_HELP
+from SuperBot import CMD_HELP
 @newyear.on(admin_cmd(pattern=r"newyear"))
 async def _(event):
     if event.fwd_from:

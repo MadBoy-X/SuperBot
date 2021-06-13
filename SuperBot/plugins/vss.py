@@ -9,9 +9,9 @@ import os
 import time
 
 from telethon.tl.types import DocumentAttributeFilename
-from userbot import CMD_HELP, bot
-from userbot.events import register
-from userbot.utils import progress
+from SuperBot import CMD_HELP, bot
+from SuperBot.events import register
+from SuperBot.utils import progress
 
 
 @register(outgoing=True, pattern=r"^\.ssvideo(?: |$)(.*)")

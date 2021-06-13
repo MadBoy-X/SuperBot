@@ -10,8 +10,8 @@ import requests
 from datetime import datetime
 from pytz import country_timezones as c_tz, timezone as tz, country_names as c_n
 
-from userbot import OPEN_WEATHER_MAP_APPID as OWM_API, CMD_HELP
-from userbot.events import register, errors_handler
+from SuperBot import OPEN_WEATHER_MAP_APPID as OWM_API, CMD_HELP
+from SuperBot.events import register, errors_handler
 
 # ===== CONSTANT =====
 DEFCITY = 'Ahmedabad'
@@ -137,7 +137,7 @@ async def get_weather(weather):
 @register(outgoing=True, pattern="^.setcity(?: |$)(.*)")
 @errors_handler
 async def set_default_city(city):
-    """ For .ctime command, change the default userbot country for date and time commands. """
+    """ For .ctime command, change the default SuperBot country for date and time commands. """
 
     if not OWM_API:
         await city.edit(

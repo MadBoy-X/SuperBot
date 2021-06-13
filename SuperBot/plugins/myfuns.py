@@ -13,9 +13,9 @@ import requests
 from telethon.tl.functions.users import GetFullUserRequest
 from telethon.tl.types import MessageEntityMentionName
 
-from userbot import ALIVE_NAME
-from userbot import CMD_HELP
-from userbot.utils import admin_cmd
+from SuperBot import ALIVE_NAME
+from SuperBot import CMD_HELP
+from SuperBot.utils import admin_cmd
 
 # ================= CONSTANT =================
 RUNSREACTS = [

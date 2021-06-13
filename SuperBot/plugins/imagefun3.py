@@ -7,8 +7,8 @@ import numpy as np
 import os, shutil, sys ,cv2, asyncio, scipy, random
 from telegraph import upload_file
 from telethon.tl.types import MessageMediaPhoto
-from userbot.utils import admin_cmd
-from userbot import bot , CMD_HELP
+from SuperBot.utils import admin_cmd
+from SuperBot import bot , CMD_HELP
 
 path = "./dcobra/"
 if not os.path.isdir(path):

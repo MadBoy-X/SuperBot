@@ -1,8 +1,8 @@
 from telethon import events
 from asyncio import sleep
 import os, sys, random, re
-from userbot.utils import admin_cmd
-from userbot import bot
+from SuperBot.utils import admin_cmd
+from SuperBot import bot
 
 img1=("https://t.me/danish2512/2")
 img2=("https://t.me/danish2512/3")

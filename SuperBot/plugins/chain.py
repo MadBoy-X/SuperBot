@@ -4,8 +4,8 @@
 
 from telethon import events
 from telethon.tl.functions.messages import SaveDraftRequest
-from userbot.utils import admin_cmd
-from userbot import CMD_HELP
+from SuperBot.utils import admin_cmd
+from SuperBot import CMD_HELP
 
 @borg.on(admin_cmd(pattern="chain"))
 async def _(event):

@@ -3,7 +3,7 @@
 import pygments, os, asyncio
 from pygments.lexers import Python3Lexer
 from pygments.formatters import ImageFormatter
-from userbot.utils import admin_cmd
+from SuperBot.utils import admin_cmd
 
 @borg.on(admin_cmd(pattern="pcode ?(.*)"))
 async def coder_print(event):

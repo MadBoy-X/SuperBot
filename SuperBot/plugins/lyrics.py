@@ -8,8 +8,8 @@
 
 from lyrics_extractor import SongLyrics as sl
 import random, re
-from userbot import bot, CMD_HELP
-from userbot.utils import admin_cmd
+from SuperBot import bot, CMD_HELP
+from SuperBot.utils import admin_cmd
 
 
 @bot.on(admin_cmd(pattern=r"lyrics ?(.*)"))

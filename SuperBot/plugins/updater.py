@@ -9,8 +9,8 @@ import asyncio
 import sys
 from git import Repo
 from git.exc import GitCommandError, InvalidGitRepositoryError, NoSuchPathError
-from userbot import CMD_HELP, bot
-from userbot.utils import admin_cmd, sudo_cmd
+from SuperBot import CMD_HELP, bot
+from SuperBot.utils import admin_cmd, sudo_cmd
 
 UPSTREAM_REPO_URL = "https://github.com/DARK-COBRA/DARKCOBRA"
 HEROKU_API_KEY = Var.HEROKU_API_KEY
@@ -108,16 +108,16 @@ async def upstream(ups):
         await ups.respond("do `.update now` to update")
         return
     if force_update:
-        await ups.edit('Force-Syncing to latest stable userbot code, please wait master...😅😅')
+        await ups.edit('Force-Syncing to latest stable SuperBot code, please wait master...😅😅')
     else:
-        await ups.edit('`Updating userbot, please wait....you arey best boss🤗😇')
+        await ups.edit('`Updating SuperBot, please wait....you arey best boss🤗😇')
     if HEROKU_API_KEY is not None:
         import heroku3
         heroku = heroku3.from_key(HEROKU_API_KEY)
         heroku_app = None
         heroku_applications = heroku.apps()
         if not HEROKU_APP_NAME:
-            await ups.edit('Please set up the `HEROKU_APP_NAME` variable to be able to update userbot.')
+            await ups.edit('Please set up the `HEROKU_APP_NAME` variable to be able to update SuperBot.')
             repo.__del__()
             return
         for app in heroku_applications:
@@ -126,7 +126,7 @@ async def upstream(ups):
                 break
         if heroku_app is None:
             await ups.edit(
-                f'{txt}\n`Invalid Heroku credentials for updating userbot dyno.`'
+                f'{txt}\n`Invalid Heroku credentials for updating SuperBot dyno.`'
             )
             repo.__del__()
             return
@@ -160,7 +160,7 @@ async def upstream(ups):
         await ups.edit('`Successfully Updated!\n'
                        'Bot is restarting... Wait for a second!`')
         # Spin a new instance of bot
-        args = [sys.executable, "-m", "userbot"]
+        args = [sys.executable, "-m", "SuperBot"]
         execle(sys.executable, *args, environ)
         return
     
@@ -168,7 +168,7 @@ async def upstream(ups):
 CMD_HELP.update({
     'updater':
     ".update\
-\nUsage: Checks if the main userbot repository has any updates and shows a changelog if so.\
+\nUsage: Checks if the main SuperBot repository has any updates and shows a changelog if so.\
 \n\n.update now\
-\nUsage: Updates your userbot, if there are any updates in the main userbot repository."
+\nUsage: Updates your SuperBot, if there are any updates in the main SuperBot repository."
 })

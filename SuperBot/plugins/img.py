@@ -9,7 +9,7 @@ Syntax: `.img <Name>` or `.img (replied message)`
 
 
 
-from userbot.google_imgs import googleimagesdownload
+from SuperBot.google_imgs import googleimagesdownload
 
 import os
 
@@ -17,7 +17,7 @@ import shutil
 
 from re import findall
 
-from userbot.utils import admin_cmd
+from SuperBot.utils import admin_cmd
 
 
 

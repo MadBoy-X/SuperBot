@@ -21,9 +21,9 @@ from shutil import which
 import psutil
 from telethon import __version__, version
 import var as Var
-from userbot import CMD_LIST, ALIVE_NAME, CMD_HELP,  bot
+from SuperBot import CMD_LIST, ALIVE_NAME, CMD_HELP,  bot
 
-from userbot.events import register
+from SuperBot.events import register
 
 
 

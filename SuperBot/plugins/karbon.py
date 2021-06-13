@@ -21,10 +21,10 @@ import os
 import random
 from datetime import datetime
 from telethon.tl import functions
-from userbot.utils import admin_cmd
+from SuperBot.utils import admin_cmd
 import shutil
 from PIL import Image, ImageDraw, ImageFont
-from userbot import ALIVE_NAME
+from SuperBot import ALIVE_NAME
 
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "cat"
 

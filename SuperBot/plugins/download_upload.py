@@ -21,13 +21,13 @@ import math
 from pySmartDL import SmartDL
 from hachoir.metadata import extractMetadata
 from hachoir.parser import createParser
-from userbot import LOGS, CMD_HELP, TEMP_DOWNLOAD_DIRECTORY
-from userbot.utils import register
-from userbot.utils import admin_cmd, humanbytes, progress, time_formatter
-from userbot.uniborgConfig import Config
+from SuperBot import LOGS, CMD_HELP, TEMP_DOWNLOAD_DIRECTORY
+from SuperBot.utils import register
+from SuperBot.utils import admin_cmd, humanbytes, progress, time_formatter
+from SuperBot.uniborgConfig import Config
 thumb_image_path = Config.TMP_DOWNLOAD_DIRECTORY + "/thumb_image.jpg"
 import io
-from userbot.utils import admin_cmd, progress
+from SuperBot.utils import admin_cmd, progress
 
 async def progress(current, total, event, start, type_of_ps, file_name=None):
     """Generic progress_callback for uploads and downloads."""

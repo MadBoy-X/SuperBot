@@ -11,8 +11,8 @@ import asyncio
 import time
 from datetime import datetime
 
-from userbot.utils import admin_cmd, sudo_cmd , edit_or_reply
-from userbot import CMD_HELP, bot
+from SuperBot.utils import admin_cmd, sudo_cmd , edit_or_reply
+from SuperBot import CMD_HELP, bot
 
 @borg.on(admin_cmd(pattern=r"open", outgoing=True))
 async def _(event):

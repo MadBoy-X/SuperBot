@@ -1,13 +1,13 @@
 
-"""Check if userbot awake or not . 
+"""Check if SuperBot awake or not . 
 
 """
 import os
 import asyncio
 from telethon import events
 from telethon.tl.types import ChannelParticipantsAdmins
-from userbot import ALIVE_NAME, CMD_HELP
-from userbot.utils import admin_cmd
+from SuperBot import ALIVE_NAME, CMD_HELP
+from SuperBot.utils import admin_cmd
 from telethon import version
 from math import ceil
 import json

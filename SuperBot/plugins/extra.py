@@ -1,6 +1,6 @@
 import asyncio, subprocess
 import time, re, io
-from userbot import bot, BOTLOG, BOTLOG_CHATID, CMD_HELP
+from SuperBot import bot, BOTLOG, BOTLOG_CHATID, CMD_HELP
 from telethon import events, functions, types
 from telethon.events import StopPropagation
 from telethon.tl.functions.messages import ExportChatInviteRequest
@@ -8,8 +8,8 @@ from telethon.tl.functions.contacts import BlockRequest
 from telethon.tl.functions.channels import LeaveChannelRequest, CreateChannelRequest, DeleteMessagesRequest
 from collections import deque
 from telethon.tl.functions.users import GetFullUserRequest
-from userbot.events import register
-from userbot.utils import admin_cmd
+from SuperBot.events import register
+from SuperBot.utils import admin_cmd
 
 @borg.on(admin_cmd("leave$"))
 async def leave(e):

@@ -1,15 +1,15 @@
 # By @TeleBotHelp
 # This plugin is by @xaditya
 
-"""Check if your userbot is working."""
+"""Check if your SuperBot is working."""
 import os
 import requests
 import time
 from PIL import Image
 from io import BytesIO
-from userbot import ALIVE_NAME
-from userbot.utils import admin_cmd
-from userbot.__init__ import StartTime
+from SuperBot import ALIVE_NAME
+from SuperBot.utils import admin_cmd
+from SuperBot.__init__ import StartTime
 from datetime import datetime
 
 ALV_PIC = os.environ.get("ALIVE_PIC" , None)

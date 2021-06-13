@@ -7,14 +7,14 @@
 
 import re
 import random
-from userbot import bot, CMD_HELP
+from SuperBot import bot, CMD_HELP
 import asyncio
 import os
 import json
 from pathlib import Path
 from youtube_search import YoutubeSearch
 from telethon.errors.rpcerrorlist import YouBlockedUserError
-from userbot.utils import admin_cmd, edit_or_reply
+from SuperBot.utils import admin_cmd, edit_or_reply
 
 
 IF_EMOJI = re.compile(

@@ -19,7 +19,7 @@ from telethon import custom, events
 from telethon.tl.types import Channel
 from telethon.utils import get_display_name
 
-from userbot.uniborgConfig import Config
+from SuperBot.uniborgConfig import Config
      
 NEEDLOG = int(Config.TAG_LOG) if Config.TAG_LOG else (Var.TG_BOT_USER_NAME_BF_HER)
 if Config.TAG_LOG:

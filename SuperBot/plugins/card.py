@@ -6,8 +6,8 @@
 # Card Generator
 ##############################
 from faker import Faker as dc
-from userbot.utils import admin_cmd as hehe
-from userbot import bot as cobra
+from SuperBot.utils import admin_cmd as hehe
+from SuperBot import bot as cobra
 @cobra.on(hehe("card"))
 async def _cobra(dark):
     cyber = dc()

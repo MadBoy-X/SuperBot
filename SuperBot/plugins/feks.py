@@ -2,10 +2,10 @@ import asyncio
 from telethon import events
 from telethon.tl.functions.users import GetFullUserRequest
 from telethon.tl.types import ChannelParticipantsAdmins
-from userbot.utils import admin_cmd
+from SuperBot.utils import admin_cmd
 import random, re
 import asyncio
-from userbot import CMD_HELP
+from SuperBot import CMD_HELP
 
 
 

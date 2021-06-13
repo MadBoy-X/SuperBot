@@ -7,9 +7,9 @@
 
 import re
 import random
-from userbot import bot, CMD_HELP
+from SuperBot import bot, CMD_HELP
 from telethon.errors.rpcerrorlist import YouBlockedUserError
-from userbot.utils import admin_cmd
+from SuperBot.utils import admin_cmd
 import asyncio
 from telethon.tl.functions.messages import ImportChatInviteRequest
 from telethon.errors.rpcerrorlist import UserAlreadyParticipantError

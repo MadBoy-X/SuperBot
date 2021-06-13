@@ -6,8 +6,8 @@ Syntax: .wikipedia Query"""
 from telethon import events
 import requests
 import wikipedia
-from userbot.utils import admin_cmd
-from userbot import CMD_HELP
+from SuperBot.utils import admin_cmd
+from SuperBot import CMD_HELP
 
 @borg.on(admin_cmd(pattern="wikipedia (.*)"))
 async def _(event):

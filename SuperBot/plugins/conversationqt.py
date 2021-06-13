@@ -31,9 +31,9 @@ import sys
 import random
 
 
-from userbot.utils import admin_cmd
+from SuperBot.utils import admin_cmd
 
-from userbot import CMD_HELP
+from SuperBot import CMD_HELP
 
 
 

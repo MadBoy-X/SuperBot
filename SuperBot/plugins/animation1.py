@@ -1,13 +1,13 @@
 
 from telethon import events
-from userbot.utils import admin_cmd
-from userbot import ALIVE_NAME, CMD_HELP
+from SuperBot.utils import admin_cmd
+from SuperBot import ALIVE_NAME, CMD_HELP
 from collections import deque
 import importlib.util
 import random, re, asyncio
-from userbot.utils import admin_cmd 
-from userbot import ALIVE_NAME
-from userbot import CMD_HELP
+from SuperBot.utils import admin_cmd 
+from SuperBot import ALIVE_NAME
+from SuperBot import CMD_HELP
 import os
 import sys
 import logging

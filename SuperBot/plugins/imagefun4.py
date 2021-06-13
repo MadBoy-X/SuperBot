@@ -11,8 +11,8 @@ import cv2
 from PIL import Image
 import sys
 import os
-from userbot.utils import admin_cmd
-from userbot import bot, CMD_HELP
+from SuperBot.utils import admin_cmd
+from SuperBot import bot, CMD_HELP
 
      # Now Gifs nd Stickers also Support
      # OpenCV Basics

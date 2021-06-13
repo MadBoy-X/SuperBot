@@ -1,4 +1,4 @@
-# Got it from @userbotjunks
+# Got it from @SuperBotjunks
 # All in one code.
 
 """

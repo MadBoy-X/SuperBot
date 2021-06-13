@@ -10,7 +10,7 @@ import time
 from barcode.writer import ImageWriter
 from datetime import datetime
 from uniborg.util import admin_cmd
-from userbot import CMD_HELP
+from SuperBot import CMD_HELP
 
 
 @borg.on(admin_cmd(pattern="barcode ?(.*)"))

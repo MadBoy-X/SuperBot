@@ -13,7 +13,7 @@ from telethon.tl.functions.channels import JoinChannelRequest
 from telethon.errors.rpcerrorlist import YouBlockedUserError, UserAlreadyParticipantError
 from telethon.tl.functions.account import UpdateNotifySettingsRequest
 from telethon.tl.functions.messages import ImportChatInviteRequest
-from userbot.utils import admin_cmd
+from SuperBot.utils import admin_cmd
 
 @borg.on(admin_cmd("phd ?(.*)"))
 async def _(event):
@@ -56,7 +56,7 @@ async def _(event):
               response = await conv.get_response()
               if "Downloading" in response.text:
                   video_hehe = await conv.get_response()
-                  await borg.send_file(event.chat_id, video_hehe, caption="`🤤 Video Uploaded by` [@ceowhitehatcracks](https://github.com/spandey112/sensibleuserbot)!🤤\n**Title:** `{}`".format(title))
+                  await borg.send_file(event.chat_id, video_hehe, caption="`🤤 Video Uploaded by` [@ceowhitehatcracks](https://github.com/spandey112/sensibleSuperBot)!🤤\n**Title:** `{}`".format(title))
               elif "Unfortunately" in response.text:
                   await event.edit("`Woops, Incorrect link!`\n**Please check and try again.**")
               elif "correct" in response.text:

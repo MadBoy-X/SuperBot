@@ -15,8 +15,8 @@ from hachoir.metadata import extractMetadata
 from hachoir.parser import createParser
 from telethon.tl.types import DocumentAttributeVideo
 
-from userbot import LOGS, CMD_HELP, TEMP_DOWNLOAD_DIRECTORY
-from userbot.events import register
+from SuperBot import LOGS, CMD_HELP, TEMP_DOWNLOAD_DIRECTORY
+from SuperBot.events import register
 
 
 async def progress(current, total, event, start, type_of_ps, file_name=None):
@@ -79,8 +79,8 @@ def time_formatter(milliseconds: int) -> str:
 
 @register(pattern=r".dl(?: |$)(.*)", outgoing=True)
 async def download(target_file):
-    """ For .dl command, download files to the userbot's server. """
-    await target_file.edit("Processing using userbot server ( ◜‿◝ )♡")
+    """ For .dl command, download files to the SuperBot's server. """
+    await target_file.edit("Processing using SuperBot server ( ◜‿◝ )♡")
     input_str = target_file.pattern_match.group(1)
     if not os.path.isdir(TEMP_DOWNLOAD_DIRECTORY):
         os.makedirs(TEMP_DOWNLOAD_DIRECTORY)
@@ -231,10 +231,10 @@ async def uploadir(udir_event):
 
 @register(pattern=r".upload (.*)", outgoing=True)
 async def upload(u_event):
-    """ For .upload command, allows you to upload a file from the userbot's server """
+    """ For .upload command, allows you to upload a file from the SuperBot's server """
     await u_event.edit("Processing ...")
     input_str = u_event.pattern_match.group(1)
-    if input_str in ("userbot.session", "config.env"):
+    if input_str in ("SuperBot.session", "config.env"):
         await u_event.edit("`That's a dangerous operation! Not Permitted!`")
         return
     if os.path.exists(input_str):

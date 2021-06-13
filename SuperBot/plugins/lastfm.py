@@ -11,8 +11,8 @@ from telethon.tl.functions.users import GetFullUserRequest
 from telethon.tl.types import User as Userbot
 from telethon.errors.rpcerrorlist import FloodWaitError
 
-from userbot import CMD_HELP, BOTLOG, BOTLOG_CHATID, DEFAULT_BIO, BIO_PREFIX, lastfm, LASTFM_USERNAME, bot
-from userbot.events import register
+from SuperBot import CMD_HELP, BOTLOG, BOTLOG_CHATID, DEFAULT_BIO, BIO_PREFIX, lastfm, LASTFM_USERNAME, bot
+from SuperBot.events import register
 
 # =================== CONSTANT ===================
 LFM_BIO_ENABLED = "```last.fm current music to bio is now enabled.```"

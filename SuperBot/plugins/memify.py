@@ -12,7 +12,7 @@ import cv2
 import os, io,random, shutil, re ,textwrap
 import lottie
 from PIL import Image, ImageDraw, ImageEnhance, ImageFont, ImageOps
-from userbot.utils import admin_cmd
+from SuperBot.utils import admin_cmd
 
 path = "./dcobra/"
 if not os.path.isdir(path):
@@ -50,7 +50,7 @@ async def draw_meme_text(image_path, text):
     os.remove(image_path)
     i_width, i_height = img.size
     m_font = ImageFont.truetype(
-        "userbot/helpers/styles/impact.ttf", int((70 / 640) * i_width)
+        "SuperBot/helpers/styles/impact.ttf", int((70 / 640) * i_width)
     )
     if ";" in text:
         upper_text, lower_text = text.split(";")
@@ -182,7 +182,7 @@ async def draw_meme(image_path, text):
     os.remove(image_path)
     i_width, i_height = img.size
     m_font = ImageFont.truetype(
-        "userbot/helpers/styles/impact.ttf", int((70 / 640) * i_width)
+        "SuperBot/helpers/styles/impact.ttf", int((70 / 640) * i_width)
     )
     if ";" in text:
         upper_text, lower_text = text.split(";")

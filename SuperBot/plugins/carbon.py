@@ -56,9 +56,9 @@ from gtts import gTTS
 
 from emoji import get_emoji_regexp
 
-from userbot import CMD_HELP, BOTLOG, BOTLOG_CHATID, YOUTUBE_API_KEY, CHROME_DRIVER, GOOGLE_CHROME_BIN
+from SuperBot import CMD_HELP, BOTLOG, BOTLOG_CHATID, YOUTUBE_API_KEY, CHROME_DRIVER, GOOGLE_CHROME_BIN
 
-from userbot.utils import register
+from SuperBot.utils import register
 
 CARBONLANG = "auto"
 

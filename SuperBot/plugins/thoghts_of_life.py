@@ -17,7 +17,7 @@ import random
 
 
 
-from userbot.utils import admin_cmd
+from SuperBot.utils import admin_cmd
 
 @borg.on(admin_cmd(pattern=f"tip", allow_sudo=True))
 async def _(event):

@@ -9,9 +9,9 @@ from asyncio import sleep
 
 from telethon.errors import rpcbaseerrors
 
-from userbot import BOTLOG, BOTLOG_CHATID, CMD_HELP
-from userbot.utils import register, errors_handler
-from userbot.utils import admin_cmd
+from SuperBot import BOTLOG, BOTLOG_CHATID, CMD_HELP
+from SuperBot.utils import register, errors_handler
+from SuperBot.utils import admin_cmd
 
 
 #@register(outgoing=True, pattern="^.purge$")

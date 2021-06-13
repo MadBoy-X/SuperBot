@@ -1,14 +1,14 @@
 # Plugin made by @hellboi_atul and bug fixes By Shivam Patel(Team Cobra)
 # Give credits... Dont remove or edit these lines
 # uses ytdl 
-# made for DARK COBRA userbot..
+# made for DARK COBRA SuperBot..
 import os
 import time
 import math
 import asyncio, json
 from youtube_dl import YoutubeDL
 from pySmartDL import SmartDL
-from userbot.utils import progress
+from SuperBot.utils import progress
 from youtube_dl.utils import (DownloadError, ContentTooShortError,
                               ExtractorError, GeoRestrictedError,
                               MaxDownloadsReached, PostProcessingError,

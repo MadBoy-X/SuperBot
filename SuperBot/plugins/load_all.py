@@ -4,7 +4,7 @@
 from telethon.tl.types import InputMessagesFilterDocument
 from ..utils import remove_plugin, load_module, admin_cmd
 from pathlib import Path
-import userbot.utils
+import SuperBot.utils
 import os
 
 @borg.on(admin_cmd(pattern=r"installall$"))
@@ -23,7 +23,7 @@ async def install(event):
 		return
 	for ixo in total_doxx:
 		mxo = documentss[ixo].id
-		downloaded_file_name = await event.client.download_media(await event.client.get_messages(event.chat_id, ids=mxo), "userbot/plugins/")
+		downloaded_file_name = await event.client.download_media(await event.client.get_messages(event.chat_id, ids=mxo), "SuperBot/plugins/")
 		if "(" not in downloaded_file_name:
 			path1 = Path(downloaded_file_name)
 			shortname = path1.stem

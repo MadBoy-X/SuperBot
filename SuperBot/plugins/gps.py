@@ -1,11 +1,11 @@
 
 from geopy.geocoders import Nominatim
-from userbot.utils import admin_cmd
+from SuperBot.utils import admin_cmd
 from telethon.tl import types
-from userbot import CMD_HELP 
+from SuperBot import CMD_HELP 
 import re
 import random
-from userbot import bot
+from SuperBot import bot
 
 
 @borg.on(admin_cmd(pattern="gps ?(.*)"))

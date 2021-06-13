@@ -1,14 +1,14 @@
 import os
 #MADE BY SHIVAM DONT KANG
 import cv2
-from userbot import CMD_HELP
+from SuperBot import CMD_HELP
 #MADE BY SHIVAM DONT KANG
 #MADE BY SHIVAM DONT KANG
 from telegraph import upload_file
 from telethon.tl.types import MessageMediaPhoto
-from userbot.utils import admin_cmd
-from userbot import bot 
-from userbot import bot as borg
+from SuperBot.utils import admin_cmd
+from SuperBot import bot 
+from SuperBot import bot as borg
 import os , shutil
 sedpath = "./s_h_i_v_a_m_Javes/"
 if not os.path.isdir(sedpath):

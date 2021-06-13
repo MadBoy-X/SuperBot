@@ -4,9 +4,9 @@ for bot credits to @pureindialover
 
 from telethon.tl import functions, types
 
-from userbot.events import register
+from SuperBot.events import register
 
-from userbot import CMD_HELP
+from SuperBot import CMD_HELP
 
 
 

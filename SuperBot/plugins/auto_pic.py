@@ -7,9 +7,9 @@ from telethon.tl import functions
 from datetime import datetime
 
 from PIL import Image, ImageDraw, ImageFont
-from userbot import CMD_HELP, CMD_LIST
+from SuperBot import CMD_HELP, CMD_LIST
 
-from userbot.utils import admin_cmd
+from SuperBot.utils import admin_cmd
 
 import asyncio
 
@@ -82,7 +82,7 @@ from datetime import datetime
 
 from PIL import Image, ImageDraw, ImageFont
 
-from userbot.utils import admin_cmd
+from SuperBot.utils import admin_cmd
 
 import asyncio
 
@@ -155,7 +155,7 @@ from datetime import datetime
 
 from PIL import Image, ImageDraw, ImageFont
 
-from userbot.utils import admin_cmd
+from SuperBot.utils import admin_cmd
 
 import asyncio
 
@@ -217,7 +217,7 @@ from datetime import datetime
 
 from PIL import Image, ImageDraw, ImageFont
 
-from userbot.utils import admin_cmd
+from SuperBot.utils import admin_cmd
 
 import asyncio
 
@@ -326,7 +326,7 @@ import urllib , os
 from telethon.tl import functions
 from datetime import datetime
 from PIL import Image, ImageDraw, ImageFont
-from userbot.utils import admin_cmd
+from SuperBot.utils import admin_cmd
 import asyncio
 from time import sleep
 
@@ -369,7 +369,7 @@ from datetime import datetime
 
 from PIL import Image, ImageDraw, ImageFont
 
-from userbot.utils import admin_cmd
+from SuperBot.utils import admin_cmd
 
 import asyncio
 
@@ -434,7 +434,7 @@ from datetime import datetime
 from PIL import Image, ImageDraw, ImageFont
 from pySmartDL import SmartDL
 from telethon.tl import functions
-from userbot.utils import admin_cmd
+from SuperBot.utils import admin_cmd
 import asyncio
 import shutil 
 import random, re
@@ -463,7 +463,7 @@ async def autopic(event):
     while True:
         piclink = random.randint(0, len(TELEGRAPH_MEDIA_LINKS) - 1)
         AUTOPP = TELEGRAPH_MEDIA_LINKS[piclink]
-        downloaded_file_name = "./userbot/original_pic.png"
+        downloaded_file_name = "./SuperBot/original_pic.png"
         downloader = SmartDL(AUTOPP, downloaded_file_name, progress_bar=True)
         downloader.start(blocking=False)
         photo = "photo_pfp.png"
@@ -501,7 +501,7 @@ from datetime import datetime
 
 from PIL import Image, ImageDraw, ImageFont
 
-from userbot.utils import admin_cmd
+from SuperBot.utils import admin_cmd
 
 import asyncio
 
@@ -576,7 +576,7 @@ from datetime import datetime
 
 from PIL import Image, ImageDraw, ImageFont
 
-from userbot.utils import admin_cmd
+from SuperBot.utils import admin_cmd
 
 import asyncio
 
@@ -646,7 +646,7 @@ import urllib , os
 from telethon.tl import functions
 from datetime import datetime
 from PIL import Image, ImageDraw, ImageFont
-from userbot.utils import admin_cmd
+from SuperBot.utils import admin_cmd
 import asyncio
 from time import sleep
 

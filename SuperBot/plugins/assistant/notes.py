@@ -7,7 +7,7 @@ from telethon.tl import types
 from SuperBot import bot
 from SuperBot import assistant
 from SuperBot.uniborgConfig import Config
-from userbot.plugins.sql_helper.snips_sql import (
+from SuperBot.plugins.sql_helper.snips_sql import (
     add_snip,
     get_all_snips,
     get_snips,

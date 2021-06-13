@@ -15,8 +15,8 @@ from random import choice
 from bs4 import BeautifulSoup
 from humanize import naturalsize
 
-from userbot import CMD_HELP
-from userbot.events import register
+from SuperBot import CMD_HELP
+from SuperBot.events import register
 
 
 def subprocess_run(cmd):

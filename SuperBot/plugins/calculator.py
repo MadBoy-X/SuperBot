@@ -5,8 +5,8 @@ import traceback
 import asyncio
 import sys
 import io
-from userbot.utils import admin_cmd
-from userbot import CMD_HELP
+from SuperBot.utils import admin_cmd
+from SuperBot import CMD_HELP
 
 @borg.on(admin_cmd(pattern="calc"))
 async def _(event):

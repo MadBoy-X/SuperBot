@@ -32,8 +32,8 @@ from urllib.error import HTTPError
 
 from pySmartDL import SmartDL
 
-from userbot import CMD_HELP, LOGS
-from userbot.utils import admin_cmd, humanbytes, time_formatter
+from SuperBot import CMD_HELP, LOGS
+from SuperBot.utils import admin_cmd, humanbytes, time_formatter
 
 TEMP_DOWNLOAD_DIRECTORY = Config.TMP_DOWNLOAD_DIRECTORY
 
@@ -189,6 +189,6 @@ CMD_HELP.update(
         "mega": "__**PLUGIN NAME :** Mega__\
         \n\n📌** CMD ➥** `.mega` <MEGA.nz link>\
         \n**USAGE   ➥  **Reply to a MEGA.nz link or paste your MEGA.nz link\
-        \n\n__ It will download the file into your userbot server.__"
+        \n\n__ It will download the file into your SuperBot server.__"
     }
 )

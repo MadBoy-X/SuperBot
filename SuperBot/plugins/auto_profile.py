@@ -5,8 +5,8 @@ from pySmartDL import SmartDL
 from telethon import events
 from telethon.tl import functions
 from telethon.errors import FloodWaitError
-from userbot.utils import admin_cmd
-from userbot import ALIVE_NAME, CMD_HELP
+from SuperBot.utils import admin_cmd
+from SuperBot import ALIVE_NAME, CMD_HELP
 
 BIO_MSG = Config.BIO_MSG
 if BIO_MSG is None:
@@ -74,10 +74,10 @@ FONT_FILE_TO_USE = "Fonts/digital.ttf"
 
 @command(pattern="^.autopic", outgoing=True)
 async def autopic(event):
-    downloaded_file_name = "userbot/original_pic.png"
+    downloaded_file_name = "SuperBot/original_pic.png"
     downloader = SmartDL(Var.DOWNLOAD_PFP_URL_CLOCK, downloaded_file_name, progress_bar=False)
     downloader.start(blocking=False)
-    photo = "userbot/photo_pfp.png"
+    photo = "SuperBot/photo_pfp.png"
     while not downloader.isFinished():
         place_holder = None
     counter = -30

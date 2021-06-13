@@ -3,7 +3,7 @@
 # Syntax (.hl <link>)
 
 from telethon import events
-from userbot.utils import admin_cmd
+from SuperBot.utils import admin_cmd
 import asyncio
 from telethon.tl import functions, types
 

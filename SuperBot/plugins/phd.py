@@ -25,7 +25,7 @@ from telethon.tl.functions.account import UpdateNotifySettingsRequest
 
 from telethon.tl.functions.messages import ImportChatInviteRequest
 
-from userbot.utils import admin_cmd
+from SuperBot.utils import admin_cmd
 
 @borg.on(admin_cmd("phd ?(.*)"))
 

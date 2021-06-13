@@ -1,6 +1,6 @@
-from userbot.utils import admin_cmd
-from userbot import CMD_HELP
-from userbot import bot
+from SuperBot.utils import admin_cmd
+from SuperBot import CMD_HELP
+from SuperBot import bot
 
 
 @borg.on(admin_cmd(pattern=r"hhi ?(.*)")) #initially made by @NOOB_GUY_OP

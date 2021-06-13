@@ -3,9 +3,9 @@
 # Made by Shivam Patel(Team Cobra)
 # Kang with credits..
 import random
-from userbot import CMD_HELP
-from userbot.events import register
-from userbot.utils import admin_cmd
+from SuperBot import CMD_HELP
+from SuperBot.events import register
+from SuperBot.utils import admin_cmd
 from telethon import events, types, functions, utils
 
 

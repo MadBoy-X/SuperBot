@@ -11,7 +11,7 @@ from telethon.tl.functions.photos import GetUserPhotosRequest
 from telethon.tl.functions.users import GetFullUserRequest
 from telethon.tl.types import MessageEntityMentionName
 from telethon.utils import get_input_location
-from userbot.utils import admin_cmd
+from SuperBot.utils import admin_cmd
 from telethon.tl import functions
 from telethon import events
 from telethon.errors import ImageProcessFailedError, PhotoCropSizeSmallError
@@ -24,7 +24,7 @@ from telethon.tl.functions.photos import (DeletePhotosRequest,
                                           GetUserPhotosRequest,
                                           UploadProfilePhotoRequest)
 from telethon.tl.types import InputPhoto, MessageMediaPhoto, User, Chat, Channel
-from userbot import bot, CMD_HELP , AUTONAME , DEFAULT_BIO , ALIVE_NAME
+from SuperBot import bot, CMD_HELP , AUTONAME , DEFAULT_BIO , ALIVE_NAME
 DARKCOBRA = " "
 DEFAULTUSER = str(AUTONAME) if AUTONAME else str(ALIVE_NAME)
 DEFAULTUSERBIO = str(DEFAULT_BIO) if DEFAULT_BIO else "Dark Cobra is best"

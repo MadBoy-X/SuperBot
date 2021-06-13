@@ -8,7 +8,7 @@ import random
 import textwrap
 from PIL import Image, ImageDraw, ImageFont
 from telethon.tl.types import InputMessagesFilterDocument
-from userbot.utils import admin_cmd
+from SuperBot.utils import admin_cmd
 
 # RegEx by https://t.me/c/1220993104/500653 ( @SnapDragon7410 )
 
@@ -32,7 +32,7 @@ async def sticklet(event):
         return
     if event.reply_to_msg_id:
         reply_message = await event.get_reply_message()
-    # delete the userbot command,
+    # delete the SuperBot command,
     # i don't know why this is required
     await event.delete()
     # https://docs.python.org/3/library/textwrap.html#textwrap.wrap
@@ -82,7 +82,7 @@ async def sticklet(event):
         return
     if event.reply_to_msg_id:
         reply_message = await event.get_reply_message()
-    # delete the userbot command,
+    # delete the SuperBot command,
     # i don't know why this is required
     await event.delete()
     # https://docs.python.org/3/library/textwrap.html#textwrap.wrap

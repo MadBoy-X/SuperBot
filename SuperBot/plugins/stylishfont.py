@@ -1,9 +1,9 @@
-from userbot import bot
+from SuperBot import bot
 import asyncio
-from userbot.utils import admin_cmd
+from SuperBot.utils import admin_cmd
 import random
 from telethon import Button, custom, events
-from userbot.helpers.styles.fun import DC_FONT_STYLE, DCFONTS, SIMPLEDC
+from SuperBot.helpers.styles.fun import DC_FONT_STYLE, DCFONTS, SIMPLEDC
 
 #originally by Userge X
 #ported to telethon by @ProgrammingError

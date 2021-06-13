@@ -1,6 +1,6 @@
-from userbot import CMD_LIST
-from userbot import ALIVE_NAME
-from userbot.utils import admin_cmd, sudo_cmd
+from SuperBot import CMD_LIST
+from SuperBot import ALIVE_NAME
+from SuperBot.utils import admin_cmd, sudo_cmd
 from platform import uname
 import sys
 from telethon import events, functions, __version__

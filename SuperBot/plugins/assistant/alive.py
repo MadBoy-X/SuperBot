@@ -32,24 +32,24 @@ async def awake(event):
   MADBOY += "~~ **Tʜᴀɴᴋs ғᴏʀ ᴄʜᴇᴄᴋɪɴɢ ᴍᴇ** !!"
   BUTTON = [[Button.url("Mᴀsᴛᴇʀ", f"https://t.me/{bot.me.username}"), Button.url(f"{BOT} Rᴇᴘᴏ", "https://github.com/MadBoy-X/SuperBot")]]
   BUTTON += [[custom.Button.inline("Rᴇᴘᴏsɪᴛᴏʀɪᴇs »»", data="MADBOY")]]
-  await xbot.send_file(event.chat_id, PHOTO, caption=MADBOY,  buttons=BUTTON)
+  await assistant.send_file(event.chat_id, PHOTO, caption=MADBOY,  buttons=BUTTON)
 
 
 
 
-@xbot.on(events.callbackquery.CallbackQuery(data=re.compile(b"MADBOY")))
+@assistant.on(events.callbackquery.CallbackQuery(data=re.compile(b"MADBOY")))
 async def callback_query_handler(event):
 # inline by LEGENDX22 and PROBOY22 🔥
-  MADBOYX = [[Button.url("Rᴇᴘᴏ UʟᴛʀᴀX", "https://github.com/ULTRA-OP/ULTRA-X")]]
-  MADBOYX +=[[Button.url("Dᴇᴘʟᴏʏ UʟᴛʀᴀX", "https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FULTRA-OP%2FHEROKU&template=https%3A%2F%2Fgithub.com%2FULTRA-OP%2FHEROKU")]]
-  MADBOYX +=[[Button.url("Tᴜᴛᴏʀɪᴀʟ", "https://youtu.be/rGCSSFPsS4Q"), Button.url("Sᴛʀɪɴɢ Sᴇssɪᴏɴ", "https://replit.com/@legendx22/ULTRA-X#main.py")]]
-  MADBOYX +=[[Button.url("Aᴘɪ Iᴅ & Aᴘɪ Hᴀsʜ", "https://t.me/usetgxbot"), Button.url("Rᴇᴅɪs", "https://redislabs.com")]]
-  MADBOYX +=[[Button.url("Sᴜᴘᴘᴏʀᴛ Cʜᴀɴɴᴇʟ", "https://t.me/UltraXOT"), Button.url("Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ", "https://t.me/UltraXChat")]]
+  MADBOYX = [[Button.url("Rᴇᴘᴏ SᴜᴘᴇʀBᴏᴛ", "https://github.com/MadBoy-X/SuperBot")]]
+  MADBOYX +=[[Button.url("Dᴇᴘʟᴏʏ SᴜᴘᴇʀBᴏᴛ", "https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FMadBoy-X%2FSuperBot-Deploy&template=https%3A%2F%2Fgithub.com%2FMadBoy-X%2FSuperBot-Deploy")]]
+  MADBOYX +=[[Button.url("Tᴜᴛᴏʀɪᴀʟ", ""), Button.url("Sᴛʀɪɴɢ Sᴇssɪᴏɴ", "https://replit.com/@madboy482/SuperBot#main.py")]]
+  MADBOYX +=[[Button.url("Aᴘɪ Iᴅ & Aᴘɪ Hᴀsʜ", "https://t.me/API_ScrapperBot"), Button.url("Rᴇᴅɪs", "https://redislabs.com")]]
+  MADBOYX +=[[Button.url("Sᴜᴘᴘᴏʀᴛ Cʜᴀɴɴᴇʟ", "https://t.me/SuperBotOT"), Button.url("Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ", "https://t.me/SuperBot_Support")]]
   MADBOYX +=[[custom.Button.inline("«« Aʟɪᴠᴇ", data="MADBOI")]]
   await event.edit(text=f"Aʟʟ Dᴇᴛᴀɪʟs Oғ Rᴇᴘᴏs", buttons=MADBOYX)
 
 
-@xbot.on(events.callbackquery.CallbackQuery(data=re.compile(b"MADBOI")))
+@assistant.on(events.callbackquery.CallbackQuery(data=re.compile(b"MADBOI")))
 async def callback_query_handler(event):
 # inline by LEGENDX22 and PROBOY22 🔥
   MADBOY = f"Hᴇʟʟᴏ !! Tʜɪs ɪs **{BOT}**\n\n"
@@ -59,14 +59,14 @@ async def callback_query_handler(event):
   MADBOY += "**Fᴜʟʟʏ ᴜᴘᴅᴀᴛᴇᴅ ʙᴏᴛ...**\n\n"
   MADBOY += "**Tᴇʟᴇᴛʜᴏɴ** : `1.21.1`\n\n"
   MADBOY += "~~ **Tʜᴀɴᴋs ғᴏʀ ᴄʜᴇᴄᴋɪɴɢ ᴍᴇ** !!"
-  BUTTONS = [[Button.url("Mᴀsᴛᴇʀ", f"https://t.me/{bot.me.username}"), Button.url(f"{BOT} Rᴇᴘᴏ", "https://github.com/ULTRA-OP/ULTRA-X")]]
+  BUTTONS = [[Button.url("Mᴀsᴛᴇʀ", f"https://t.me/{bot.me.username}"), Button.url(f"{BOT} Rᴇᴘᴏ", "https://github.com/MadBoy-X/SuperBot")]]
   BUTTONS += [[custom.Button.inline("Rᴇᴘᴏsɪᴛᴏʀɪᴇs »»", data="MADBOY")]]
   await event.edit(text=MADBOY, buttons=BUTTONS)
 
 
-@xbot.on(events.NewMessage(pattern=("/repo")))
+@assistant.on(events.NewMessage(pattern=("/repo")))
 async def repo(event):
-  await xbot.send_message(event.chat, "**Hᴇʀᴇ Is Tʜᴇ Rᴇᴘᴏ Fᴏʀ υℓтяα χ Usᴇʀʙᴏᴛ** \n\nFᴏʀ Aɴʏ Hᴇʟᴘ :- @UltraXOT", buttons=[[Button.url("⚜️ Rᴇᴘᴏ ⚜️", "https://github.com/ULTRA-OP/ULTRA-X"), Button.url("🔰 Dᴇᴘʟᴏʏ 🔰", "https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FULTRA-OP%2FHEROKU&template=https%3A%2F%2Fgithub.com%2FULTRA-OP%2FHEROKU")]])
+  await assistant.send_message(event.chat, "**Hᴇʀᴇ Is Tʜᴇ Rᴇᴘᴏ Fᴏʀ Sᥙρҽɾẞσ𝜏** \n\nFᴏʀ Aɴʏ Hᴇʟᴘ :- @SuperBotOT", buttons=[[Button.url("⚜️ Rᴇᴘᴏ ⚜️", "https://github.com/MadBoy-X/SuperBot"), Button.url("🔰 Dᴇᴘʟᴏʏ 🔰", "https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FMadBoy-X%2FSuperBot-Deploy&template=https%3A%2F%2Fgithub.com%2FMadBoy-X%2FSuperBot-Deploy")]])
 
 
 def get_readable_time(seconds: int) -> str:
@@ -96,7 +96,7 @@ def get_readable_time(seconds: int) -> str:
 
     return ping_time
 
-@xbot.on(events.NewMessage(pattern=None))
+@assistant.on(events.NewMessage(pattern=None))
 async def ok(event):
     msg = str(event.text)
     if not msg == "/ping":

@@ -30,7 +30,7 @@ from SuperBot.utils import admin_cmd
 PP_TOO_SMOL = "`The image is too small`"
 PP_ERROR = "`Failure while processing the image`"
 NO_ADMIN = "`I am not an admin nub nibba!`"
-NO_PERM = "`I don't have sufficient permissions! This is so sed. Alexa play Tera Baap Aaya`"
+NO_PERM = "`I don't have sufficient permissions! This is so sed. Alexa play Chacha Hai Chacha`"
 NO_SQL = "`Running on Non-SQL mode!`"
 
 CHAT_PP_CHANGED = "`Chat Picture Changed`"
@@ -133,7 +133,7 @@ async def promote(promt):
     await promt.edit("`Promoting...`")
     user, rank = await get_user_from_event(promt)
     if not rank:
-        rank = "DARK COBRA"  # Just in case.
+        rank = "𝑺𝒖𝒑𝒆𝒓𝑩𝒐𝒕 "  # Just in case.
     if user:
         pass
     else:

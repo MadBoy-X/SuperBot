@@ -1,7 +1,7 @@
 # SuperBot
 # made for SuperBot 
 
-# imported from SuperBot-X by madboy482
+# imported from ULTRA-X by madboy482
 
 from SuperBot import assistant
 from google_trans_new import google_translator
@@ -65,4 +65,4 @@ async def _(event):
 # SuperBot
 # made for SuperBot 
 
-# imported from SuperBot-X by madboy482
+# imported from ULTRA-X by madboy482

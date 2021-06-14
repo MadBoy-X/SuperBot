@@ -109,7 +109,7 @@ async def ok(event):
     telegram_ping = str(round(pingtime.total_seconds(), 2)) + "s"
     uptime = get_readable_time((time.time() - StartTime))
     await message.edit(
-        "<b><i>☞ Pᴏɴɢ !!</i></b>\n"
+        "<b><i> ꧁༺Pᴏɴɢ !!༻꧂ </i></b>\n"
         "<b>➥ Tɪᴍᴇ Tᴀᴋᴇɴ:</b> <code>{}</code>\n"
         "<b>➥ Sᴇʀᴠɪᴄᴇ Uᴘᴛɪᴍᴇ:</b> <code>{}</code>".format(telegram_ping, uptime),
         parse_mode="html",

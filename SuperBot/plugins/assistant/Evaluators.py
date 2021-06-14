@@ -1,9 +1,9 @@
 # SuperBot
 # made for SuperBot
 
-# imported from SuperBot-X by madboy482
+# imported from ULTRA-X by madboy482
 
-# COPYRIGHT © BY SuperBot X
+# COPYRIGHT © BY ULTRA X
 # Kang with credits, else gey and DMCA
 
 
@@ -98,4 +98,4 @@ async def _(event):
 # SuperBot
 # made for SuperBot
 
-# imported from SuperBot-X by madboy482
+# imported from ULTRA-X by madboy482

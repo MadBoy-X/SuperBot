@@ -1,7 +1,7 @@
 # SuperBot
 # made for SuperBot 
 
-# imported from SuperBot-X by madboy482
+# imported from ULTRA-X by madboy482
 
 # COPYRIGHT (C) 2021-22 BY LEGENDX22, TEAMLEGEND
 # YOU CAN COPY BUT DONT REMOVE CREDITS
@@ -1007,5 +1007,5 @@ Federation owner commands:
 # SuperBot
 # made for SuperBot 
 
-# imported from SuperBot-X by madboy482
+# imported from ULTRA-X by madboy482
 

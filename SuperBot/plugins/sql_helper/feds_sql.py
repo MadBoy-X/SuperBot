@@ -1,7 +1,7 @@
 # SuperBot
 # made for SuperBot
 
-# imported from SuperBot-X by madboy482
+# imported from ULTRA-X by madboy482
 
 # COPYRIGHT (C) 2021-22 BY LEGENDX22 AND TEAMLEGEND
 # YOU CAN COPY BUT DONT DARE TO REMOVE THIS LINES
@@ -939,4 +939,4 @@ __load_feds_subscriber()
 # SuperBot
 # made for SuperBot
 
-# imported from SuperBot-X by madboy482
+# imported from ULTRA-X by madboy482

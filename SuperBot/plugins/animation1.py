@@ -12,7 +12,7 @@ from SuperBot.utils import admin_cmd, edit_or_reply, sudo_cmd
 from SuperBot import CMD_HELP, ALIVE_NAME
 from SuperBot import bot
 
-DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "υℓтяα χ"
+DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Sᥙρҽɾẞσ𝜏"
 
 USERID = bot.uid
 

@@ -1,4 +1,4 @@
-###### SUPERBOT
+# SUPERBOT
 
 ## Mandatory Imports
 ```python3

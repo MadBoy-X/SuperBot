@@ -1,3 +1,5 @@
+# By JassManak1125 For SuperBot
+
 #By @NOOB_GUY_OP for Dark CObra
 #If you steal this without credits You will be the geyest gey ever in the world that you will suck cat's dick.
 from telethon import events

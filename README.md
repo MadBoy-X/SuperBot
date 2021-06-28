@@ -1,6 +1,6 @@
 # SᴜᴘᴇʀBᴏᴛ
 
-A modified and advanced UserBot for Telegram Users. Based on Latest Telethon (1.21.1) and made using Latest Python (3.9.5). **Managed By : [@its_JassManak](https://telegram.me/its_JassManak). DEVs : [@Disheartened_007](https://telegram.me/Disheartened_007), [@ItS_PRaNAv_Xd](https://telegram.me/ItS_PRaNAv_Xd).** 
+A modified and advanced UserBot for Telegram Users. Based on Latest Telethon (1.21.1) and made using Latest Python (3.9.5). **Managed By : [@Disheartened_007](https://telegram.me/Disheartened_007), [@ItS_PRaNAv_Xd](https://telegram.me/ItS_PRaNAv_Xd).** 
 
 <div class="separator" style="clear: both; text-align: center;">
 <a href="https://telegra.ph/file/92282e208158c15793431.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="500" data-original-width="500" height="500" src="https://telegra.ph/file/92282e208158c15793431.jpg" width="500" /></a></div>
@@ -79,7 +79,6 @@ UnFortunately, there are no Mandatory vars for the UniBorg Support Config.
 
 # Cʀᴇᴅɪᴛs 📍
 ## • MADBOY   »»  <a href="https://github.com/madboy482" alt="MadBoy"> <img src="https://img.shields.io/badge/MadBoy-47f8eb?logo=github" /></a>
-## • JASS MANAK  »»  <a href="https://github.com/JassManak1125" alt="Jass Manak"> <img src="https://img.shields.io/badge/Jass Manak-98AFC7?logo=github" /></a>
 ## • PRANAV  »»  <a href="https://github.com/Pranav18262" alt="Pranav"> <img src="https://img.shields.io/badge/Pranav-625D5D?logo=github" /></a>
 ## • SHUBHANSH »» <a href="https://github.com/Aruoto" alt="Shubhansh"> <img src="https://img.shields.io/badge/Shubhansh-E5E4E2?logo=github" /></a>
 ## • LEGEND X »» <a href="https://github.com/LEGENDXOP" alt="LEGEND X"> <img src="https://img.shields.io/badge/Legend X-8f4b3d?logo=github" /></a>

@@ -87,6 +87,12 @@ UnFortunately, there are no Mandatory vars for the UniBorg Support Config.
 
 -------------------------------------------------
 
+# Kangs not Allowed.
+# You can fork/copy plugins but with credits.
+# If any kanged repo found, be ready for DMCA.
+
+-------------------------------------------------
+
 # Licence 📋
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
 

@@ -40,7 +40,7 @@ async def hmm(yes):
     pm_caption += "**𝑨𝒍𝒍 𝒕𝒉𝒆 𝑺𝒚𝒔𝒕𝒆𝒎𝒔 𝒂𝒏𝒅 𝑫𝒂𝒕𝒂𝑩𝒂𝒔𝒆𝒔 𝒂𝒓𝒆 𝑭𝒖𝒏𝒄𝒕𝒊𝒐𝒏𝒊𝒏𝒈 𝑷𝒓𝒐𝒑𝒆𝒓𝒍𝒚, 𝒂𝒔 𝒕𝒉𝒆𝒚 𝒔𝒉𝒐𝒖𝒍𝒅 𝒅𝒐.**\n\n"
     pm_caption += "✘ 𝐼𝑛𝑓𝑜 𝐴𝑏𝑜𝑢𝑡 𝑀𝑦 𝑆𝑦𝑠𝑡𝑒𝑚 ✘\n\n"
     pm_caption += f"➥ **Tᴇʟᴇᴛʜᴏɴ Vᴇʀꜱɪᴏɴ :** {version.__version__}\n"
-    pm_caption += "➥ **Sᴜᴘᴘᴏʀᴛ Cʜᴀɴɴᴇʟ :** [Jᴏɪɴ](https://t.me/SuperBot_Support)\n"
+    pm_caption += "➥ **Sᴜᴘᴘᴏʀᴛ Cʜᴀɴɴᴇʟ :** [Jᴏɪɴ](https://t.me/superbotprojects)\n"
     pm_caption += "➥ **Cᴏᴘʏʀɪɢʜᴛ Bʏ :** [𝐒𝐮𝐩𝐞𝐫𝐁𝐨𝐭](https://github.com/MadBoy-X/SuperBot)\n\n"
     pm_caption += f"➥ **Uᴘᴛɪᴍᴇ :** {uptime}\n\n"
     pm_caption += f"➥ **Mʏ Mᴀsᴛᴇʀ :** [{DEFAULTUSER}](tg://user?id={ghanti})\n"

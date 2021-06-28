@@ -73,7 +73,7 @@ if LOAD_ASSISTANT == True:
 else:
     print("SuperBot Assistant can't be loaded, as u have disabled it.")
 
-print("SuperBot and SuperBot Assistant are Initiated Successfully. Join @SuperBotUpdates For Updates. For queries or errors, contact @SuperBot_Support.")
+print("SuperBot and SuperBot Assistant are Initiated Successfully. Join @SuperBotUpdates For Updates. For queries or errors, contact @SuperBot_SupportChat.")
 
 if len(argv) not in (1, 3, 4):
     bot.disconnect()
@@ -97,7 +97,7 @@ async def madboi():
 **Pɪɴɢ Pᴏɴɢ...**
 **➥ Mᴀsᴛᴇʀ** `➪` **@{MADBOY.username}**
 **➥ Assɪsᴛᴀɴᴛ** `➪` **@{madboy.username}**
-**➥ Sᴜᴘᴘᴏʀᴛ** `➪` **@SuperBot_Support**
+**➥ Sᴜᴘᴘᴏʀᴛ** `➪` **@SuperBot_SupportChat**
 **➥ Cʜᴀɴɴᴇʟ** `➪` **@SuperBotOT**
 **Cʜᴇᴄᴋ ᴍᴏɪ Pɪɴɢ ᴛɪᴍᴇ ʙʏ** `.ping` **[Fᴏʀ UsᴇʀBᴏᴛ] or** `/ping` **[Fᴏʀ Assɪsᴛᴀɴᴛ]**
 """

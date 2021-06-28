@@ -96,7 +96,7 @@ async def unload(event):
     except Exception as e:
         await qwe.edit(
             "{shortname} 𝑼𝒏𝒍𝒐𝒂𝒅𝒆𝒅 𝑺𝒖𝒄𝒄𝒆𝒔𝒔𝒇𝒖𝒍𝒍𝒚 𝒃𝒚 𝑺𝒖𝒑𝒆𝒓𝑩𝒐𝒕.\n{}".format(shortname, str(e))
-        )𝑺𝒖𝒄𝒄𝒆𝒔𝒔𝒇𝒖𝒍𝒍𝒚  
+        )
 
 
 @bot.on(admin_cmd(pattern=r"load (?P<shortname>\w+)$"))

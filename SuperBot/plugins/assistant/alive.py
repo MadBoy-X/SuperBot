@@ -44,7 +44,7 @@ async def callback_query_handler(event):
   MADBOYX +=[[Button.url("Dᴇᴘʟᴏʏ SᴜᴘᴇʀBᴏᴛ", "https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FMadBoy-X%2FSuperBot-Deploy&template=https%3A%2F%2Fgithub.com%2FMadBoy-X%2FSuperBot-Deploy")]]
   MADBOYX +=[[Button.url("Tᴜᴛᴏʀɪᴀʟ", ""), Button.url("Sᴛʀɪɴɢ Sᴇssɪᴏɴ", "https://replit.com/@madboy482/SuperBot#main.py")]]
   MADBOYX +=[[Button.url("Aᴘɪ Iᴅ & Aᴘɪ Hᴀsʜ", "https://t.me/API_ScrapperBot"), Button.url("Rᴇᴅɪs", "https://redislabs.com")]]
-  MADBOYX +=[[Button.url("Sᴜᴘᴘᴏʀᴛ Cʜᴀɴɴᴇʟ", "https://t.me/SuperBotOT"), Button.url("Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ", "https://t.me/SuperBot_Support")]]
+  MADBOYX +=[[Button.url("Sᴜᴘᴘᴏʀᴛ Cʜᴀɴɴᴇʟ", "https://t.me/SuperBotOT"), Button.url("Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ", "https://t.me/SuperBot_SupportChat")]]
   MADBOYX +=[[custom.Button.inline("«« Aʟɪᴠᴇ", data="MADBOI")]]
   await event.edit(text=f"Aʟʟ Dᴇᴛᴀɪʟs Oғ Rᴇᴘᴏs", buttons=MADBOYX)
 

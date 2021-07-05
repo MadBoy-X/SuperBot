@@ -24,7 +24,7 @@ async def callback_query_handler(event):
   await event.edit(text=f"**SᴜᴘᴇʀBᴏᴛ's Rᴇᴘᴏ, Dᴇᴘʟᴏʏ ᴀɴᴅ Gʀᴏᴜᴘ Lɪɴᴋ\n\n© @SuperBotOT**",buttons=[
    [
     Button.url(f"⚜️ Rᴇᴘᴏ ⚜️", url="https://github.com/MadBoy-X/SuperBot"),
-    Button.url(f"🌚 Sᴜᴘᴘᴏʀᴛ Cʜᴀᴛ 🌝", url="https://t.me/SuperBot_Support")
+    Button.url(f"🌚 Sᴜᴘᴘᴏʀᴛ Cʜᴀᴛ 🌝", url="https://t.me/SuperBot_SupportChat")
    ],
    [
     Button.url(f"🔰 Dᴇᴘʟᴏʏ 🔰", url="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FMadBoy-X%2FSuperBot-Deploy&template=https%3A%2F%2Fgithub.com%2FMadBoy-X%2FSuperBot-Deploy"),

@@ -73,7 +73,7 @@ async def start(event):
             link_preview=False,
             buttons=[
                 [custom.Button.inline("Dᴇᴘʟᴏʏ ʏᴏᴜʀ SᴜᴘᴇʀBᴏᴛ", data="deploy")],
-                [Button.url("Gᴇᴛ Hᴇʟᴘ ❓", "https://t.me/SuperBot_Support")],
+                [Button.url("Gᴇᴛ Hᴇʟᴘ ❓", "https://t.me/SuperBot_SupportChat")],
             ],
         )
 
@@ -89,8 +89,8 @@ async def help(event):
             event.chat_id,
             message="𝒀𝒐𝒖 𝒄𝒂𝒏 𝑫𝒆𝒑𝒍𝒐𝒚 𝑺𝒖𝒑𝒆𝒓𝑩𝒐𝒕 𝒐𝒏 𝑯𝒆𝒓𝒐𝒌𝒖 𝒃𝒚 𝒇𝒐𝒍𝒍𝒐𝒘𝒊𝒏𝒈 𝒕𝒉𝒆 𝑺𝒕𝒆𝒑𝒔 𝒃𝒆𝒍𝒐𝒘, 𝒀𝒐𝒖 𝒄𝒂𝒏 𝒔𝒆𝒆𝒌 𝒇𝒐𝒓 𝑯𝒆𝒍𝒑 𝒐𝒏 𝑺𝒖𝒑𝒑𝒐𝒓𝒕 𝑮𝒓𝒐𝒖𝒑.\n𝑻𝒉𝒂𝒏𝒌𝒔 𝒇𝒐𝒓 𝑪𝒐𝒏𝒕𝒂𝒄𝒕𝒊𝒏𝒈 𝑴𝒆.",
             buttons=[
-                [Button.url("Dᴇᴘʟᴏʏ Tᴜᴛᴏʀɪᴀʟ 📺", "")],
-                [Button.url("Gᴇᴛ Hᴇʟᴘ ❓", "https://t.me/SuperBot_Support")],
+                [Button.url("Dᴇᴘʟᴏʏ Tᴜᴛᴏʀɪᴀʟ 📺", "https://t.me/SuperBotOT")],
+                [Button.url("Gᴇᴛ Hᴇʟᴘ ❓", "https://t.me/SuperBot_SupportChat")],
             ],
         )
 

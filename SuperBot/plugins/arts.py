@@ -23,6 +23,17 @@ async def legendx22(carry):
         f"**Carry ~> {name} .**\n\n                     ⣤⣶⣶⣶⣦⣤⣄⡀\n⠀⠀⠀⠀⠀⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⡀\n⠀⠀⠀⢀⣾⣿⣿⣿⠿⠿⠟⠻⠿⢿⣿⣿⣿⡆\n⠀⠀⠀⢰⣿⣿⡿⠂⠀⠀⠀⠀⠀⠀ ⠈⠉⢻⡇ \n⠀⠀⠀⠈⠿⣿⣇⣠⠤⠤⠤⢤⣀⣤⠤⠤⣺⡏ \n⠀⠀⠀⠀⠐⢉⣯⠹⣀⣀⣢⡸⠉⢏⡄⣀⣯⠁ \n⠀⠀⠀⠀⠡⠀⢹⣆⠀⠀⠀⣀⡀⡰⠀⢠⠖⠂ \n⠀⠀⠀⠀⠀⠈⠙⣿⣿⠀⠠⠚⢋⡁⠀⡜ \n⠀⠀⠀⠀⠀⠀⢸⠈⠙⠦⣤⣀⣤⣤⡼⠁  \n⠀⠀⠀ ⠀⢀⡌⠀⠀⠀⠀ ⠉⢏⡉  \n⠀⠀⠀⣀⣴⣿⣷⣶⣤⣤⣤⣴⣾⣷⣶⣦⡀ \n⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄ \n⠚⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛",
     )
 
+@bot.on(admin_cmd(pattern="moti (.*)"))
+@bot.on(sudo_cmd(pattern="moti (.*)", allow_sudo=True))
+async def madboy(moti):
+    name = moti.pattern_match.group(1)
+    await moti.reply(f"@its_Anushka_xDx ae Moti Ladki.")
+    
+@bot.on(admin_cmd(pattern="nibbi (.*)"))
+@bot.on(sudo_cmd(pattern="nibbi (.*)", allow_sudo=True))
+async def madboy(nibbi):
+    name = nibbi.pattern_match.group(1)
+    await nibbi.reply(f"@its_Anushka_xDx ae Nibbi X, Nibbi kahiki.")
 
 @bot.on(admin_cmd(pattern="ded (.*)"))
 @bot.on(sudo_cmd(pattern="ded (.*)", allow_sudo=True))
@@ -643,6 +654,10 @@ CMD_HELP.update(
       \n\n**USAGE   ~>  **These are arts,use & see\
       \n\n** CMD ~>** `.carry` <your text>\
       \n**USAGE   ~>  **Send your text with carry's art.\
+      \n\n** CMD ~>** `.moti`\
+      \n**USAGE   ~>  **Just for Fun.\
+      \n\n** CMD ~> `.nibbi`\
+      \n**USAGE   ~>  **Just for Fun.\
       \n\n** CMD ~>** `.killer` <text>\
       \n**USAGE   ~>  **Be a warrior & kill enimes.\
       \n\n** CMD ~>** `.ded` <text>\

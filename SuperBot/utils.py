@@ -426,7 +426,7 @@ def errors_handler(func):
 
             text = "**SUPERBOT CRASH REPORT**\n\n"
 
-            link = "[Here](https://t.me/SuperBot_Support)"
+            link = "[Here](https://t.me/SuperBot_SupportChat)"
             text += "If you wanna, you can report it"
             text += f"- just forward this message {link}.\n"
             text += "Nothing is logged except the fact of error and date.\n"

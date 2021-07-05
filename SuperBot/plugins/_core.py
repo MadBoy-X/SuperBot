@@ -12,7 +12,7 @@ from SuperBot.utils import admin_cmd, load_module, remove_plugin, sudo_cmd
 from SuperBot.utils import edit_or_reply as eor
 
 DELETE_TIMEOUT = 3
-thumb_image_path = "./Resources/SuperBot (4).png"
+thumb_image_path = "./Resources/SuperBot4.jpg"
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "SuperBot"
 
 

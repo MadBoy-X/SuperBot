@@ -1,4 +1,4 @@
-#"""Update UserBot Code (FOR DARKCOBRA USERBOT)
+#"""Update UserBot Code (FOR SuperBot USERBOT)
 #Syntax: .update
 #\nAll Credits goes to © @hellboi_atul
 #\nFor this awasome plugin.\nPorted from PpaperPlane Extended"""
@@ -12,7 +12,7 @@ from git.exc import GitCommandError, InvalidGitRepositoryError, NoSuchPathError
 from SuperBot import CMD_HELP, bot
 from SuperBot.utils import admin_cmd, sudo_cmd
 
-UPSTREAM_REPO_URL = "https://github.com/DARK-COBRA/DARKCOBRA"
+UPSTREAM_REPO_URL = "https://github.com/MadBoy-X/SuperBot"
 HEROKU_API_KEY = Var.HEROKU_API_KEY
 HEROKU_APP_NAME = Var.HEROKU_APP_NAME
 
@@ -43,7 +43,8 @@ async def update_requirements():
 async def upstream(ups):
     "For .update command, check if the bot is up to date, update if specified"
     conf = ups.pattern_match.group(1)
-    await ups.edit("Checking for updates, please wait....")
+    await ups.edit("Oi Viro, use .restart for updating, as update command not working, LuL.")
+    '''
     off_repo = UPSTREAM_REPO_URL
     force_update = False
     try:
@@ -60,7 +61,7 @@ async def upstream(ups):
         return
     except InvalidGitRepositoryError as error:
         if conf != "now":
-            await ups.edit(f"**Hey ßoss!!!**😁😁\n__To get the Latest update of__ \n©DARK_COBRA_SUPPORT\n\n do |`.update now`| 😎😎 ")
+            await ups.edit(f"**Hey ßoss!!!**😁😁\n__To get the Latest update of__ \n© TeamSuperBot\n\n do |`.update now`| 😎😎 ")
             return
         repo = Repo.init()
         origin = repo.create_remote('upstream', off_repo)
@@ -149,7 +150,7 @@ async def upstream(ups):
             await asyncio.sleep(1)
             await ups.edit("`⬛⬛⬛⬛ \n⬛❇️❇️⬛ \n⬛❇️❇️⬛ \n⬛⬛⬛⬛`")
             await asyncio.sleep(1)
-        await ups.edit("`⚜️Updating DarkCobra⚜️\n\nYou are the 👑KING👑 Boss!!\n\nPlease wait 5min😁😁\nThen try .alive to check` 😎😎\n\n**Powered by :-**\n©DARK_COBRA_SUPPORT ")
+        await ups.edit("`⚜️Updating SuperBot⚜️\n\nYou are the 👑KING👑 Boss!!\n\nPlease wait 5 min😁😁\nThen try .alive to check` 😎😎\n\n**Powered by :-**\n© TeamSuperBot ")
         remote.push(refspec="HEAD:refs/heads/master", force=True)
     else:
         try:
@@ -164,7 +165,7 @@ async def upstream(ups):
         execle(sys.executable, *args, environ)
         return
     
-
+'''
 CMD_HELP.update({
     'updater':
     ".update\

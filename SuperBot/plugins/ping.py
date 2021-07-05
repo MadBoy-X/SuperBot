@@ -1,7 +1,7 @@
 import asyncio
 from datetime import datetime
 
-from .. import ALIVE_NAME, CMD_HELP, 
+from .. import ALIVE_NAME, CMD_HELP
 from ..utils import admin_cmd, sudo_cmd, edit_or_reply
 
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "SuperBot"
@@ -71,7 +71,23 @@ async def _(event):
         f"**█▀█ █▀█ █▄░█ █▀▀ █ \n█▀▀ █▄█ █░▀█ █▄█ ▄**\n✥ **✪ Tɪᴍᴇ Tᴀᴋᴇɴ:** `{ms}`\n✥ **✪ Mᴀsᴛᴇʀ:** [{DEFAULTUSER}](tg://user?id={ghanta})\n✥ **✪ Assɪsᴛᴀɴᴛ:** __@{TG_BOT_USER_NAME}__""
     )
 
-
+@borg.on(admin_cmd(pattern="ting$"))
+@borg.on(sudo_cmd(pattern="ting$", allow_sudo=True))
+async def _(event):
+    if event.fwd_from:
+        return
+    start = datetime.now()
+    event = await edit_or_reply(event, "<i><b>☞ Tong!</b></i>", "html")
+    end = datetime.now()
+    ALIVE_NAME = DEFAULTUSER
+    TG_BOT_USERNAME = Config.TG_BOT_USER_NAME_BF_HER
+    ms = (end - start).microseconds / 1000
+    await eor(event,
+        f"<i><b>☞ Tong !!</b></i>\n➥ {ms} ms\n➥ <i><b>Bot of: [{ALIVE_NAME}](tg://user?id={ghanta})</b></i>\n➥ <i><b>Assistant: {TG_BOT_USERNAME}</b></i>",
+        parse_mode="html",
+    )
+    
+    
 CMD_HELP.update(
     {
         "ping": "__**PLUGIN NAME :** Ping__\

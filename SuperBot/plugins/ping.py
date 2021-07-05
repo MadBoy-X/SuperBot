@@ -94,6 +94,8 @@ CMD_HELP.update(
     \n\n📌** CMD ★** `.hping`\
     \n**USAGE   ★  **A kind of ping with extra animation\
     \n\n📌** CMD ★** `.ping`\
-    \n**USAGE   ★  **Shows you the ping speed of server"
+    \n**USAGE   ★  **Shows you the ping speed of server\
+    \n\n📌** CMD ★** `.ting`\
+    \n\n**USAGE   ★  **A kind of ping with extra animation"
     }
 )

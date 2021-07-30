@@ -8,7 +8,7 @@ from SuperBot import CMD_HELP
 
 from SuperBot.events import register
 
-@register(outgoing=True, pattern="^.tspam")
+@register(outgoing=True, pattern="tspam (.*)")
 async def tmeme(e):
     tspam = str(e.text[7:])
     message = tspam.replace(" ", "")
@@ -16,7 +16,7 @@ async def tmeme(e):
         await e.respond(letter)
     await e.delete()
 
-@register(outgoing=True, pattern="^.spam")
+@register(outgoing=True, pattern="spam (.*)")
 async def spammer(e):
     if not e.text[0].isalpha() and e.text[0] not in ("/", "#", "@", "!"):
         message = e.text
@@ -26,7 +26,7 @@ async def spammer(e):
         await e.delete()
         
                                
-@register(outgoing=True, pattern="^.bigspam")
+@register(outgoing=True, pattern="bigspam (.*)")
 async def bigspam(e):
     if not e.text[0].isalpha() and e.text[0] not in ("/", "#", "@", "!"):
         message = e.text
@@ -39,7 +39,7 @@ async def bigspam(e):
         
         
 
-@register(outgoing=True, pattern="^.mspam")
+@register(outgoing=True, pattern="mspam (.*)")
 async def tiny_pic_spam(e):
     reply = await e.get_reply_message()
     if not e.text[0].isalpha() and e.text[0] not in ("/", "#", "@", "!"):
@@ -52,7 +52,7 @@ async def tiny_pic_spam(e):
         await e.delete()
         
 
-@register(outgoing=True, pattern="^.delayspam (.*)")
+@register(outgoing=True, pattern="delayspam (.*)")
 async def spammer(e):
     spamDelay = float(e.pattern_match.group(1).split(' ', 2)[0])
     counter = int(e.pattern_match.group(1).split(' ', 2)[1])
